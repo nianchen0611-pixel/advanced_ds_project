@@ -139,7 +139,7 @@ date,type,category,amount,account,currency,description
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/personal-finance-copilot.git
+git clone https://github.com/nianchen0611-pixel/personal-finance-copilot.git
 cd personal-finance-copilot
 ```
 
