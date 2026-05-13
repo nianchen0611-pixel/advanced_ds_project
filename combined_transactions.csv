@@ -1,0 +1,1288 @@
+date,type,category,amount,account,currency,description
+2025-11-30 00:00:00,Expense,Health,114.0,acct_1,BYN,tag_1
+2025-11-29 00:00:00,Expense,Food,5.0,acct_1,BYN,tag_1
+2025-11-27 00:00:00,Expense,Public transport,1.0,acct_2,BYN,tag_1
+2025-11-27 00:00:00,Expense,Cafe,10.0,acct_1,BYN,tag_1
+2025-11-27 00:00:00,Expense,Public transport,1.0,acct_2,BYN,tag_1
+2025-11-26 00:00:00,Expense,Cafe,2.0,acct_3,BYN,tag_1
+2025-11-26 00:00:00,Expense,Public transport,1.0,acct_2,BYN,tag_1
+2025-11-25 00:00:00,Expense,Public transport,1.0,acct_2,BYN,tag_1
+2025-11-25 00:00:00,Expense,Public transport,1.0,acct_2,BYN,tag_1
+2025-11-25 00:00:00,Expense,Cafe,11.0,acct_1,BYN,tag_1
+2025-11-25 00:00:00,Expense,Taxi,18.0,acct_1,BYN,tag_1
+2025-11-24 00:00:00,Expense,Food,9.0,acct_1,BYN,tag_1
+2025-11-24 00:00:00,Expense,Public transport,1.0,acct_2,BYN,tag_1
+2025-11-24 00:00:00,Expense,Public transport,1.0,acct_2,BYN,tag_1
+2025-11-24 00:00:00,Expense,Cafe,4.0,acct_3,BYN,tag_1
+2025-11-24 00:00:00,Expense,Public transport,1.0,acct_2,BYN,tag_1
+2025-11-24 00:00:00,Expense,Public transport,1.0,acct_2,BYN,tag_1
+2025-11-22 00:00:00,Expense,Food,11.0,acct_1,BYN,tag_1
+2025-11-21 00:00:00,Expense,Public transport,2.0,acct_2,BYN,tag_1
+2025-11-21 00:00:00,Expense,Cafe,11.0,acct_1,BYN,tag_1
+2025-11-21 00:00:00,Expense,Public transport,1.0,acct_2,BYN,tag_1
+2025-11-21 00:00:00,Expense,Public transport,1.0,acct_2,BYN,tag_1
+2025-11-20 00:00:00,Expense,Public transport,1.0,acct_2,BYN,tag_1
+2025-11-20 00:00:00,Expense,Public transport,2.0,acct_2,BYN,tag_1
+2025-11-20 00:00:00,Expense,Cafe,9.0,acct_1,BYN,tag_1
+2025-11-20 00:00:00,Expense,Public transport,1.0,acct_2,BYN,tag_1
+2025-11-20 00:00:00,Expense,Cafe,8.0,acct_3,BYN,tag_1
+2025-11-19 00:00:00,Expense,Public transport,1.0,acct_2,BYN,tag_1
+2025-11-18 00:00:00,Expense,Gifts,79.0,acct_1,BYN,tag_1
+2025-11-18 00:00:00,Expense,Public transport,1.0,acct_2,BYN,tag_1
+2025-11-18 00:00:00,Expense,Cafe,2.0,acct_3,BYN,tag_1
+2025-11-18 00:00:00,Expense,Cafe,5.0,acct_1,BYN,tag_1
+2025-11-18 00:00:00,Expense,Taxi,9.0,acct_1,BYN,tag_1
+2025-11-18 00:00:00,Expense,Public transport,1.0,acct_2,BYN,tag_1
+2025-11-18 00:00:00,Expense,Cafe,3.0,acct_3,BYN,tag_1
+2025-11-17 00:00:00,Expense,Public transport,1.0,acct_2,BYN,tag_1
+2025-11-17 00:00:00,Expense,Cafe,3.0,acct_3,BYN,tag_1
+2025-11-17 00:00:00,Expense,Cafe,2.0,acct_3,BYN,tag_1
+2025-11-17 00:00:00,Expense,Public transport,1.0,acct_2,BYN,tag_1
+2025-11-16 00:00:00,Expense,Public transport,2.0,acct_2,BYN,tag_1
+2025-11-15 00:00:00,Expense,Food,3.0,acct_3,BYN,tag_1
+2025-11-15 00:00:00,Expense,Public transport,1.0,acct_2,BYN,tag_1
+2025-11-15 00:00:00,Expense,Food,3.0,acct_3,BYN,tag_1
+2025-11-15 00:00:00,Expense,Cafe,3.0,acct_3,BYN,tag_1
+2025-11-15 00:00:00,Expense,Public transport,1.0,acct_2,BYN,tag_1
+2025-11-13 00:00:00,Expense,Public transport,1.0,acct_2,BYN,tag_1
+2025-11-13 00:00:00,Expense,Loan given,23.0,acct_1,BYN,tag_1
+2025-11-13 00:00:00,Expense,Cafe,4.0,acct_1,BYN,tag_1
+2025-11-13 00:00:00,Expense,Public transport,2.0,acct_2,BYN,tag_1
+2025-11-13 00:00:00,Expense,Public transport,1.0,acct_2,BYN,tag_1
+2025-11-13 00:00:00,Expense,Public transport,1.0,acct_2,BYN,tag_1
+2025-11-13 00:00:00,Expense,Health,36.0,acct_1,BYN,tag_1
+2025-11-13 00:00:00,Expense,Public transport,1.0,acct_2,BYN,tag_1
+2025-11-12 00:00:00,Expense,Cafe,10.0,acct_1,BYN,tag_1
+2025-11-12 00:00:00,Expense,Public transport,1.0,acct_2,BYN,tag_1
+2025-11-11 00:00:00,Expense,Public transport,1.0,acct_2,BYN,tag_1
+2025-11-11 00:00:00,Expense,Cafe,5.0,acct_1,BYN,tag_1
+2025-11-11 00:00:00,Expense,Public transport,1.0,acct_2,BYN,tag_1
+2025-11-10 00:00:00,Expense,Public transport,1.0,acct_2,BYN,tag_1
+2025-11-10 00:00:00,Expense,Public transport,1.0,acct_2,BYN,tag_1
+2025-11-10 00:00:00,Expense,Cafe,6.0,acct_1,BYN,tag_1
+2025-11-10 00:00:00,Expense,Public transport,1.0,acct_2,BYN,tag_1
+2025-11-07 00:00:00,Expense,Cafe,11.0,acct_1,BYN,tag_1
+2025-11-07 00:00:00,Expense,Leisure,35.0,acct_1,BYN,tag_1
+2025-11-06 00:00:00,Expense,Cafe,31.0,acct_1,BYN,tag_1
+2025-11-05 00:00:00,Expense,Clothes,299.0,acct_1,BYN,tag_1
+2025-11-05 00:00:00,Expense,Cafe,3.0,acct_3,BYN,tag_1
+2025-11-05 00:00:00,Expense,Cafe,12.0,acct_1,BYN,tag_1
+2025-11-05 00:00:00,Expense,Public transport,1.0,acct_2,BYN,tag_1
+2025-11-04 00:00:00,Expense,Cafe,2.0,acct_3,BYN,tag_1
+2025-11-04 00:00:00,Expense,Public transport,1.0,acct_2,BYN,tag_1
+2025-11-04 00:00:00,Expense,Public transport,1.0,acct_2,BYN,tag_1
+2025-11-04 00:00:00,Expense,Public transport,1.0,acct_2,BYN,tag_1
+2025-11-04 00:00:00,Expense,Food,2.0,acct_3,BYN,tag_1
+2025-11-03 00:00:00,Expense,Leisure,38.0,acct_3,BYN,tag_1
+2025-11-03 00:00:00,Expense,Cafe,2.0,acct_3,BYN,tag_1
+2025-11-03 00:00:00,Expense,Public transport,1.0,acct_2,BYN,tag_1
+2025-11-03 00:00:00,Expense,Cafe,11.0,acct_1,BYN,tag_1
+2025-11-03 00:00:00,Expense,Cafe,3.0,acct_3,BYN,tag_1
+2025-11-03 00:00:00,Expense,Public transport,1.0,acct_2,BYN,tag_1
+2025-11-01 00:00:00,Expense,Public transport,1.0,acct_2,BYN,tag_1
+2025-11-01 00:00:00,Expense,Food,2.0,acct_3,BYN,tag_1
+2025-10-31 00:00:00,Expense,Public transport,1.0,acct_2,BYN,tag_1
+2025-10-31 00:00:00,Expense,Public transport,1.0,acct_2,BYN,tag_1
+2025-10-31 00:00:00,Expense,Gifts,30.0,acct_3,BYN,tag_1
+2025-10-30 00:00:00,Expense,Health,1.0,acct_3,BYN,tag_1
+2025-10-30 00:00:00,Expense,Public transport,1.0,acct_2,BYN,tag_1
+2025-10-30 00:00:00,Expense,Public transport,1.0,acct_2,BYN,tag_1
+2025-10-29 00:00:00,Expense,Public transport,2.0,acct_2,BYN,tag_1
+2025-10-29 00:00:00,Expense,Public transport,2.0,acct_2,BYN,tag_1
+2025-10-29 00:00:00,Expense,Leisure,20.0,acct_1,BYN,tag_1
+2025-10-29 00:00:00,Expense,Leisure,17.0,acct_1,BYN,tag_1
+2025-10-29 00:00:00,Expense,Food,1.0,acct_3,BYN,tag_1
+2025-10-29 00:00:00,Expense,Food,22.0,acct_1,BYN,tag_1
+2025-10-29 00:00:00,Expense,Public transport,2.0,acct_2,BYN,tag_1
+2025-10-29 00:00:00,Expense,Cafe,1.0,acct_3,BYN,tag_1
+2025-10-29 00:00:00,Expense,Cafe,5.0,acct_1,BYN,tag_1
+2025-10-28 00:00:00,Expense,Public transport,1.0,acct_3,BYN,tag_1
+2025-10-28 00:00:00,Expense,Food,1.0,acct_3,BYN,tag_1
+2025-10-28 00:00:00,Expense,Public transport,2.0,acct_2,BYN,tag_1
+2025-10-28 00:00:00,Expense,Bought for myself,64.0,acct_1,BYN,tag_1
+2025-10-28 00:00:00,Expense,Cafe,5.0,acct_1,BYN,tag_1
+2025-10-28 00:00:00,Expense,Public transport,1.0,acct_2,BYN,tag_1
+2025-10-28 00:00:00,Expense,Food,2.0,acct_3,BYN,tag_1
+2025-10-26 00:00:00,Expense,Public transport,5.0,acct_1,BYN,tag_1
+2025-10-26 00:00:00,Expense,Health,128.0,acct_1,BYN,tag_1
+2025-10-26 00:00:00,Expense,Gifts,44.0,acct_1,BYN,tag_1
+2025-10-26 00:00:00,Expense,Public transport,5.0,acct_1,BYN,tag_1
+2025-10-26 00:00:00,Expense,Food,6.0,acct_1,BYN,tag_1
+2025-10-25 00:00:00,Expense,Food,4.0,acct_1,BYN,tag_1
+2025-10-25 00:00:00,Expense,Cafe,11.0,acct_1,BYN,tag_1
+2025-10-25 00:00:00,Expense,Public transport,5.0,acct_1,BYN,tag_1
+2025-10-24 00:00:00,Expense,Public transport,1.0,acct_2,BYN,tag_1
+2025-10-24 00:00:00,Expense,Taxi,10.0,acct_1,BYN,tag_1
+2025-10-23 00:00:00,Expense,Cafe,17.0,acct_1,BYN,tag_1
+2025-10-21 00:00:00,Expense,Public transport,1.0,acct_2,BYN,tag_1
+2025-10-21 00:00:00,Expense,Public transport,2.0,acct_2,BYN,tag_1
+2025-10-21 00:00:00,Expense,Cafe,9.0,acct_1,BYN,tag_1
+2025-10-21 00:00:00,Expense,Cafe,6.0,acct_1,BYN,tag_1
+2025-10-21 00:00:00,Expense,Public transport,2.0,acct_2,BYN,tag_1
+2025-10-20 00:00:00,Expense,Public transport,2.0,acct_2,BYN,tag_1
+2025-10-20 00:00:00,Expense,Public transport,1.0,acct_2,BYN,tag_1
+2025-10-20 00:00:00,Expense,Cafe,4.0,acct_1,BYN,tag_1
+2025-10-20 00:00:00,Expense,Public transport,1.0,acct_2,BYN,tag_1
+2025-10-19 00:00:00,Expense,Gifts,43.0,acct_1,BYN,tag_1
+2025-10-19 00:00:00,Expense,Food,18.0,acct_1,BYN,tag_1
+2025-10-19 00:00:00,Expense,Gifts,15.0,acct_3,BYN,tag_1
+2025-10-18 00:00:00,Expense,Public transport,1.0,acct_2,BYN,tag_1
+2025-10-18 00:00:00,Expense,Food,6.0,acct_1,BYN,tag_1
+2025-10-18 00:00:00,Expense,Public transport,1.0,acct_2,BYN,tag_1
+2025-10-18 00:00:00,Expense,Public transport,1.0,acct_2,BYN,tag_1
+2025-10-18 00:00:00,Expense,Public transport,1.0,acct_2,BYN,tag_1
+2025-10-18 00:00:00,Expense,Leisure,29.0,acct_3,BYN,tag_1
+2025-10-18 00:00:00,Expense,Public transport,1.0,acct_2,BYN,tag_1
+2025-10-17 00:00:00,Expense,Health,70.0,acct_1,BYN,tag_1
+2025-10-16 00:00:00,Expense,Public transport,1.0,acct_2,BYN,tag_1
+2025-10-16 00:00:00,Expense,Public transport,1.0,acct_2,BYN,tag_1
+2025-10-16 00:00:00,Expense,Public transport,1.0,acct_2,BYN,tag_1
+2025-10-16 00:00:00,Expense,Cafe,5.0,acct_1,BYN,tag_1
+2025-10-16 00:00:00,Expense,Public transport,1.0,acct_2,BYN,tag_1
+2025-10-15 00:00:00,Expense,Loan given,854.0,acct_1,BYN,tag_1
+2025-10-15 00:00:00,Expense,Other,11.0,acct_1,BYN,tag_1
+2025-10-15 00:00:00,Expense,Food,0.0,acct_3,BYN,tag_1
+2025-10-15 00:00:00,Expense,Public transport,1.0,acct_2,BYN,tag_1
+2025-10-15 00:00:00,Expense,Public transport,1.0,acct_2,BYN,tag_1
+2025-10-15 00:00:00,Expense,Cafe,3.0,acct_3,BYN,tag_1
+2025-10-15 00:00:00,Expense,Cafe,4.0,acct_1,BYN,tag_1
+2025-10-15 00:00:00,Expense,Public transport,1.0,acct_2,BYN,tag_1
+2025-10-14 00:00:00,Expense,Public transport,1.0,acct_2,BYN,tag_1
+2025-10-14 00:00:00,Expense,Food,1.0,acct_3,BYN,tag_1
+2025-10-14 00:00:00,Expense,Gifts,27.0,acct_1,BYN,tag_1
+2025-10-14 00:00:00,Expense,Food,3.0,acct_3,BYN,tag_1
+2025-10-14 00:00:00,Expense,Public transport,1.0,acct_2,BYN,tag_1
+2025-10-14 00:00:00,Expense,Public transport,1.0,acct_2,BYN,tag_1
+2025-10-14 00:00:00,Expense,Public transport,1.0,acct_2,BYN,tag_1
+2025-10-14 00:00:00,Expense,Taxi,9.0,acct_1,BYN,tag_1
+2025-10-13 00:00:00,Expense,Food,15.0,acct_3,BYN,tag_1
+2025-10-13 00:00:00,Expense,Cafe,9.0,acct_3,BYN,tag_1
+2025-10-13 00:00:00,Expense,Food,1.0,acct_3,BYN,tag_1
+2025-10-13 00:00:00,Expense,Leisure,35.0,acct_3,BYN,tag_1
+2025-10-12 00:00:00,Expense,Public transport,5.0,acct_1,BYN,tag_1
+2025-10-10 00:00:00,Expense,Public transport,1.0,acct_2,BYN,tag_1
+2025-10-10 00:00:00,Expense,Food,15.0,acct_1,BYN,tag_1
+2025-10-10 00:00:00,Expense,Public transport,1.0,acct_2,BYN,tag_1
+2025-10-10 00:00:00,Expense,Public transport,1.0,acct_2,BYN,tag_1
+2025-10-10 00:00:00,Expense,Public transport,1.0,acct_2,BYN,tag_1
+2025-10-09 00:00:00,Expense,Taxi,17.0,acct_1,BYN,tag_1
+2025-10-09 00:00:00,Expense,Cafe,6.0,acct_1,BYN,tag_1
+2025-10-09 00:00:00,Expense,Public transport,1.0,acct_2,BYN,tag_2
+2025-10-08 00:00:00,Expense,Food,10.0,acct_1,BYN,tag_1
+2025-10-08 00:00:00,Expense,Public transport,1.0,acct_3,BYN,tag_2
+2025-10-07 00:00:00,Expense,Cafe,3.0,acct_3,BYN,tag_1
+2025-10-07 00:00:00,Expense,Food,2.0,acct_3,BYN,tag_1
+2025-10-07 00:00:00,Expense,Taxi,14.0,acct_1,BYN,tag_1
+2025-10-06 00:00:00,Expense,Public transport,2.0,acct_2,BYN,tag_1
+2025-10-06 00:00:00,Expense,Gifts,15.0,acct_3,BYN,tag_1
+2025-10-06 00:00:00,Expense,Cafe,3.0,acct_3,BYN,tag_1
+2025-10-06 00:00:00,Expense,Public transport,1.0,acct_2,BYN,tag_1
+2025-10-05 00:00:00,Expense,Public transport,1.0,acct_2,BYN,tag_1
+2025-10-05 00:00:00,Expense,Public transport,1.0,acct_2,BYN,tag_1
+2025-10-04 00:00:00,Expense,Public transport,1.0,acct_2,BYN,tag_1
+2025-10-04 00:00:00,Expense,Food,1.0,acct_3,BYN,tag_1
+2025-10-04 00:00:00,Expense,Loan given,52.0,acct_1,BYN,tag_1
+2025-10-04 00:00:00,Expense,Loan given,86.0,acct_1,BYN,tag_1
+2025-10-03 00:00:00,Expense,Cafe,59.0,acct_3,BYN,tag_1
+2025-10-02 00:00:00,Expense,Taxi,4.0,acct_3,BYN,tag_1
+2025-10-02 00:00:00,Expense,Public transport,2.0,acct_2,BYN,tag_1
+2025-10-02 00:00:00,Expense,Cafe,1.0,acct_3,BYN,tag_1
+2025-10-02 00:00:00,Expense,Public transport,1.0,acct_2,BYN,tag_1
+2025-10-01 00:00:00,Expense,Cafe,2.0,acct_3,BYN,tag_1
+2025-10-01 00:00:00,Expense,Cafe,14.0,acct_1,BYN,tag_1
+2025-10-01 00:00:00,Expense,Public transport,1.0,acct_2,BYN,tag_1
+2025-10-01 00:00:00,Expense,Public transport,1.0,acct_2,BYN,tag_1
+2025-10-01 00:00:00,Expense,Cafe,4.0,acct_3,BYN,tag_1
+2025-10-01 00:00:00,Expense,Cafe,5.0,acct_3,BYN,tag_1
+2025-10-01 00:00:00,Expense,Cafe,3.0,acct_3,BYN,tag_1
+2025-10-01 00:00:00,Expense,Public transport,1.0,acct_2,BYN,tag_1
+2025-09-30 00:00:00,Expense,Public transport,1.0,acct_2,BYN,tag_1
+2025-09-30 00:00:00,Expense,Cafe,1.0,acct_3,BYN,tag_1
+2025-09-30 00:00:00,Expense,University,4.0,acct_3,BYN,tag_1
+2025-09-30 00:00:00,Expense,Cafe,3.0,acct_3,BYN,tag_1
+2025-09-30 00:00:00,Expense,Public transport,1.0,acct_2,BYN,tag_1
+2025-09-30 00:00:00,Expense,Public transport,2.0,acct_2,BYN,tag_1
+2025-09-30 00:00:00,Expense,Public transport,2.0,acct_2,BYN,tag_3
+2025-09-30 00:00:00,Expense,Leisure,31.0,acct_1,BYN,tag_1
+2025-09-29 00:00:00,Expense,Food,5.0,acct_3,BYN,tag_1
+2025-09-29 00:00:00,Expense,Clothes,88.0,acct_1,BYN,tag_1
+2025-09-29 00:00:00,Expense,Bought for myself,1129.0,acct_1,BYN,tag_1
+2025-09-29 00:00:00,Expense,Cafe,1.0,acct_3,BYN,tag_1
+2025-09-29 00:00:00,Expense,Public transport,1.0,acct_2,BYN,tag_1
+2025-09-29 00:00:00,Expense,Cafe,3.0,acct_3,BYN,tag_1
+2025-09-29 00:00:00,Expense,Cafe,3.0,acct_3,BYN,tag_1
+2025-09-29 00:00:00,Expense,Public transport,1.0,acct_2,BYN,tag_1
+2025-09-28 00:00:00,Expense,Food,9.0,acct_3,BYN,tag_1
+2025-09-28 00:00:00,Expense,Public transport,1.0,acct_2,BYN,tag_1
+2025-09-28 00:00:00,Expense,Public transport,1.0,acct_2,BYN,tag_1
+2025-09-27 00:00:00,Expense,Public transport,1.0,acct_2,BYN,tag_1
+2025-09-27 00:00:00,Expense,Food,10.0,acct_3,BYN,tag_1
+2025-09-27 00:00:00,Expense,Public transport,1.0,acct_2,BYN,tag_1
+2025-09-27 00:00:00,Expense,Food,1.0,acct_3,BYN,tag_1
+2025-09-27 00:00:00,Expense,Public transport,1.0,acct_2,BYN,tag_1
+2025-09-27 00:00:00,Expense,Public transport,1.0,acct_2,BYN,tag_1
+2025-09-27 00:00:00,Expense,Taxi,24.0,acct_3,BYN,tag_1
+2025-09-27 00:00:00,Expense,Food,65.0,acct_1,BYN,tag_1
+2025-09-26 00:00:00,Expense,Taxi,25.0,acct_1,BYN,tag_1
+2025-09-26 00:00:00,Expense,Leisure,232.0,acct_1,BYN,tag_1
+2025-09-26 00:00:00,Expense,Cafe,5.0,acct_1,BYN,tag_1
+2025-09-25 00:00:00,Expense,Food,81.0,acct_1,BYN,tag_1
+2025-09-25 00:00:00,Expense,Food,313.0,acct_1,BYN,tag_1
+2025-09-25 00:00:00,Expense,Public transport,1.0,acct_2,BYN,tag_1
+2025-09-25 00:00:00,Expense,Public transport,2.0,acct_2,BYN,tag_2
+2025-09-25 00:00:00,Expense,Public transport,1.0,acct_2,BYN,tag_3
+2025-09-24 00:00:00,Expense,Public transport,1.0,acct_2,BYN,tag_1
+2025-09-24 00:00:00,Expense,Public transport,1.0,acct_2,BYN,tag_1
+2025-09-24 00:00:00,Expense,Cafe,16.0,acct_1,BYN,tag_1
+2025-09-24 00:00:00,Expense,Cafe,6.0,acct_1,BYN,tag_1
+2025-09-24 00:00:00,Expense,Public transport,1.0,acct_2,BYN,tag_2
+2025-09-24 00:00:00,Expense,Food,1.0,acct_3,BYN,tag_1
+2025-09-24 00:00:00,Expense,Food,11.0,acct_3,BYN,tag_1
+2025-09-23 00:00:00,Expense,Public transport,2.0,acct_2,BYN,tag_2
+2025-09-23 00:00:00,Expense,Public transport,1.0,acct_2,BYN,tag_2
+2025-09-23 00:00:00,Expense,Public transport,2.0,acct_2,BYN,tag_1
+2025-09-22 00:00:00,Expense,Cafe,8.0,acct_3,BYN,tag_1
+2025-09-22 00:00:00,Expense,Public transport,1.0,acct_2,BYN,tag_1
+2025-09-22 00:00:00,Expense,Gifts,12.0,acct_3,BYN,tag_1
+2025-09-21 00:00:00,Expense,Public transport,2.0,acct_2,BYN,tag_1
+2025-09-21 00:00:00,Expense,Public transport,1.0,acct_2,BYN,tag_1
+2025-09-20 00:00:00,Expense,Public transport,1.0,acct_2,BYN,tag_1
+2025-09-20 00:00:00,Expense,Public transport,1.0,acct_2,BYN,tag_4
+2025-09-17 00:00:00,Expense,Health,73.0,acct_1,BYN,tag_1
+2025-09-17 00:00:00,Expense,University,12.0,acct_1,BYN,tag_1
+2025-09-17 00:00:00,Expense,Cafe,4.0,acct_3,BYN,tag_1
+2025-09-17 00:00:00,Expense,Public transport,1.0,acct_2,BYN,tag_2
+2025-09-16 00:00:00,Expense,Public transport,1.0,acct_2,BYN,tag_1
+2025-09-15 00:00:00,Expense,Public transport,1.0,acct_2,BYN,tag_1
+2025-09-14 00:00:00,Expense,Public transport,1.0,acct_2,BYN,tag_1
+2025-09-14 00:00:00,Expense,Public transport,1.0,acct_2,BYN,tag_1
+2025-09-14 00:00:00,Expense,University,5.0,acct_1,BYN,tag_1
+2025-09-14 00:00:00,Expense,Taxi,15.0,acct_1,BYN,tag_1
+2025-09-14 00:00:00,Expense,Cafe,9.0,acct_1,BYN,tag_1
+2025-09-13 00:00:00,Expense,Public transport,1.0,acct_2,BYN,tag_1
+2025-09-13 00:00:00,Expense,Public transport,1.0,acct_2,BYN,tag_1
+2025-09-13 00:00:00,Expense,Taxi,6.0,acct_1,BYN,tag_1
+2025-09-12 00:00:00,Expense,Public transport,1.0,acct_2,BYN,tag_2
+2025-09-12 00:00:00,Expense,Public transport,1.0,acct_2,BYN,tag_2
+2025-09-11 00:00:00,Expense,Food,10.0,acct_1,BYN,tag_1
+2025-09-11 00:00:00,Expense,Public transport,2.0,acct_2,BYN,tag_2
+2025-09-11 00:00:00,Expense,Loan given,457.0,acct_1,BYN,tag_1
+2025-09-11 00:00:00,Expense,Public transport,2.0,acct_2,BYN,tag_1
+2025-09-11 00:00:00,Expense,Cafe,9.0,acct_1,BYN,tag_1
+2025-09-10 00:00:00,Expense,Food,5.0,acct_1,BYN,tag_1
+2025-09-10 00:00:00,Expense,Cafe,9.0,acct_1,BYN,tag_1
+2025-09-10 00:00:00,Expense,Public transport,1.0,acct_2,BYN,tag_1
+2025-09-09 00:00:00,Expense,Food,6.0,acct_1,BYN,tag_1
+2025-09-09 00:00:00,Expense,Public transport,1.0,acct_2,BYN,tag_2
+2025-09-09 00:00:00,Expense,Public transport,1.0,acct_2,BYN,tag_2
+2025-09-09 00:00:00,Expense,Food,6.0,acct_1,BYN,tag_1
+2025-09-09 00:00:00,Expense,Public transport,1.0,acct_2,BYN,tag_2
+2025-09-08 00:00:00,Expense,University,17.0,acct_1,BYN,tag_1
+2025-09-08 00:00:00,Expense,Public transport,2.0,acct_2,BYN,tag_2
+2025-09-08 00:00:00,Expense,Public transport,1.0,acct_2,BYN,tag_1
+2025-09-07 00:00:00,Expense,Taxi,18.0,acct_1,BYN,tag_1
+2025-09-07 00:00:00,Expense,Public transport,1.0,acct_2,BYN,tag_1
+2025-09-06 00:00:00,Expense,Taxi,20.0,acct_1,BYN,tag_1
+2025-09-06 00:00:00,Expense,Public transport,1.0,acct_2,BYN,tag_4
+2025-09-06 00:00:00,Expense,Public transport,2.0,acct_2,BYN,tag_1
+2025-09-06 00:00:00,Expense,Food,5.0,acct_1,BYN,tag_1
+2025-09-06 00:00:00,Expense,Public transport,1.0,acct_2,BYN,tag_2
+2025-09-06 00:00:00,Expense,Public transport,1.0,acct_2,BYN,tag_2
+2025-09-06 00:00:00,Expense,Public transport,2.0,acct_2,BYN,tag_2
+2025-09-06 00:00:00,Expense,Taxi,9.0,acct_1,BYN,tag_1
+2025-09-06 00:00:00,Expense,Cafe,9.0,acct_1,BYN,tag_1
+2025-09-05 00:00:00,Expense,Gifts,5.0,acct_1,BYN,tag_1
+2025-09-05 00:00:00,Expense,Public transport,2.0,acct_2,BYN,tag_2
+2025-09-05 00:00:00,Expense,Cafe,4.0,acct_1,BYN,tag_1
+2025-09-05 00:00:00,Expense,Public transport,1.0,acct_2,BYN,tag_2
+2025-09-04 00:00:00,Expense,Food,15.0,acct_1,BYN,tag_1
+2025-09-03 00:00:00,Expense,Public transport,2.0,acct_2,BYN,tag_1
+2025-09-03 00:00:00,Expense,Public transport,5.0,acct_1,BYN,tag_1
+2025-09-03 00:00:00,Expense,Cafe,4.0,acct_1,BYN,tag_1
+2025-09-03 00:00:00,Expense,Cafe,5.0,acct_1,BYN,tag_1
+2025-09-02 00:00:00,Expense,Public transport,2.0,acct_2,BYN,tag_2
+2025-09-02 00:00:00,Expense,Cafe,5.0,acct_1,BYN,tag_1
+2025-09-01 00:00:00,Expense,Public transport,1.0,acct_2,BYN,tag_1
+2025-09-01 00:00:00,Expense,Leisure,21.0,acct_1,BYN,tag_1
+2025-09-01 00:00:00,Expense,Cafe,5.0,acct_1,BYN,tag_1
+2025-08-31 00:00:00,Expense,Cafe,11.0,acct_1,BYN,tag_1
+2025-08-31 00:00:00,Expense,Cafe,17.0,acct_1,BYN,tag_1
+2025-08-31 00:00:00,Expense,Cafe,55.0,acct_1,BYN,tag_1
+2025-08-31 00:00:00,Expense,Taxi,12.0,acct_1,BYN,tag_1
+2025-08-31 00:00:00,Expense,Public transport,10.0,acct_1,BYN,tag_1
+2025-08-31 00:00:00,Expense,Leisure,12.0,acct_1,BYN,tag_1
+2025-08-31 00:00:00,Expense,Food,10.0,acct_1,BYN,tag_1
+2025-08-30 00:00:00,Expense,Cafe,22.0,acct_1,BYN,tag_1
+2025-08-30 00:00:00,Expense,Bought for myself,9.0,acct_1,BYN,tag_1
+2025-08-30 00:00:00,Expense,Public transport,10.0,acct_1,BYN,tag_1
+2025-08-29 00:00:00,Expense,Public transport,1.0,acct_2,BYN,tag_1
+2025-08-28 00:00:00,Expense,Public transport,1.0,acct_2,BYN,tag_4
+2025-08-28 00:00:00,Expense,Gifts,11.0,acct_1,BYN,tag_1
+2025-08-28 00:00:00,Expense,Leisure,93.0,acct_1,BYN,tag_1
+2025-08-28 00:00:00,Expense,Gifts,32.0,acct_1,BYN,tag_1
+2025-08-28 00:00:00,Expense,Public transport,2.0,acct_2,BYN,tag_4
+2025-08-27 00:00:00,Expense,Public transport,1.0,acct_2,BYN,tag_4
+2025-08-27 00:00:00,Expense,Public transport,1.0,acct_2,BYN,tag_4
+2025-08-27 00:00:00,Expense,Cafe,13.0,acct_3,BYN,tag_1
+2025-08-27 00:00:00,Expense,Cafe,6.0,acct_1,BYN,tag_1
+2025-08-26 00:00:00,Expense,Public transport,1.0,acct_2,BYN,tag_4
+2025-08-26 00:00:00,Expense,Food,1.0,acct_3,BYN,tag_1
+2025-08-26 00:00:00,Expense,Food,2.0,acct_3,BYN,tag_1
+2025-08-26 00:00:00,Expense,Public transport,1.0,acct_2,BYN,tag_4
+2025-08-25 00:00:00,Expense,Public transport,1.0,acct_2,BYN,tag_4
+2025-08-25 00:00:00,Expense,Food,3.0,acct_3,BYN,tag_1
+2025-08-25 00:00:00,Expense,Public transport,1.0,acct_2,BYN,tag_4
+2025-08-25 00:00:00,Expense,Public transport,1.0,acct_2,BYN,tag_4
+2025-08-23 00:00:00,Expense,Food,55.0,acct_1,BYN,tag_1
+2025-08-23 00:00:00,Expense,Public transport,1.0,acct_2,BYN,tag_4
+2025-08-23 00:00:00,Expense,Public transport,1.0,acct_2,BYN,tag_4
+2025-08-22 00:00:00,Expense,Food,4.0,acct_3,BYN,tag_1
+2025-08-22 00:00:00,Expense,Food,6.0,acct_3,BYN,tag_1
+2025-08-22 00:00:00,Expense,Food,1.0,acct_3,BYN,tag_1
+2025-08-22 00:00:00,Expense,Public transport,1.0,acct_2,BYN,tag_4
+2025-08-22 00:00:00,Expense,Leisure,16.0,acct_1,BYN,tag_1
+2025-08-22 00:00:00,Expense,Food,1.0,acct_3,BYN,tag_1
+2025-08-21 00:00:00,Expense,Food,5.0,acct_3,BYN,tag_1
+2025-08-20 00:00:00,Expense,Cafe,8.0,acct_3,BYN,tag_1
+2025-08-20 00:00:00,Expense,Leisure,5.0,acct_1,BYN,tag_1
+2025-08-20 00:00:00,Expense,Public transport,1.0,acct_2,BYN,tag_4
+2025-08-20 00:00:00,Expense,Taxi,12.0,acct_1,BYN,tag_1
+2025-08-19 00:00:00,Expense,Public transport,5.0,acct_1,BYN,tag_1
+2025-08-19 00:00:00,Expense,Bought for myself,71.0,acct_1,BYN,tag_1
+2025-08-18 00:00:00,Expense,Public transport,1.0,acct_2,BYN,tag_1
+2025-08-17 00:00:00,Expense,Food,6.0,acct_1,BYN,tag_1
+2025-08-17 00:00:00,Expense,Cafe,20.0,acct_1,BYN,tag_1
+2025-08-17 00:00:00,Expense,Leisure,11.0,acct_1,BYN,tag_1
+2025-08-17 00:00:00,Expense,Food,5.0,acct_1,BYN,tag_1
+2025-08-16 00:00:00,Expense,Gifts,10.0,acct_1,BYN,tag_1
+2025-08-16 00:00:00,Expense,Food,5.0,acct_1,BYN,tag_1
+2025-08-15 00:00:00,Expense,Food,0.0,acct_3,BYN,tag_1
+2025-08-15 00:00:00,Expense,Food,22.0,acct_1,BYN,tag_1
+2025-08-15 00:00:00,Expense,Public transport,1.0,acct_2,BYN,tag_4
+2025-08-15 00:00:00,Expense,Food,5.0,acct_1,BYN,tag_1
+2025-08-15 00:00:00,Expense,Public transport,1.0,acct_2,BYN,tag_1
+2025-08-15 00:00:00,Expense,Public transport,1.0,acct_2,BYN,tag_4
+2025-08-14 00:00:00,Expense,Food,11.0,acct_1,BYN,tag_1
+2025-08-13 00:00:00,Expense,Public transport,1.0,acct_2,BYN,tag_1
+2025-08-13 00:00:00,Expense,Public transport,1.0,acct_2,BYN,tag_4
+2025-08-13 00:00:00,Expense,Public transport,1.0,acct_2,BYN,tag_3
+2025-08-12 00:00:00,Expense,Public transport,1.0,acct_2,BYN,tag_3
+2025-08-12 00:00:00,Expense,Public transport,1.0,acct_2,BYN,tag_4
+2025-08-12 00:00:00,Expense,Public transport,1.0,acct_2,BYN,tag_1
+2025-08-12 00:00:00,Expense,Leisure,25.0,acct_1,BYN,tag_1
+2025-08-11 00:00:00,Expense,Food,5.0,acct_1,BYN,tag_1
+2025-08-11 00:00:00,Expense,Public transport,5.0,acct_1,BYN,tag_4
+2025-08-08 00:00:00,Expense,Food,4.0,acct_1,BYN,tag_1
+2025-08-06 00:00:00,Expense,Food,2.0,acct_3,BYN,tag_1
+2025-08-05 00:00:00,Expense,Food,10.0,acct_1,BYN,tag_1
+2025-08-05 00:00:00,Expense,Food,2.0,acct_3,BYN,tag_1
+2025-08-05 00:00:00,Expense,Loan given,59.0,acct_1,BYN,tag_1
+2025-08-04 00:00:00,Expense,Public transport,3.0,acct_2,BYN,tag_4
+2025-08-04 00:00:00,Expense,Food,5.0,acct_1,BYN,tag_1
+2025-08-04 00:00:00,Expense,Taxi,5.0,acct_1,BYN,tag_1
+2025-08-03 00:00:00,Expense,Cafe,9.0,acct_1,BYN,tag_1
+2025-08-03 00:00:00,Expense,Cafe,5.0,acct_1,BYN,tag_1
+2025-08-03 00:00:00,Expense,Cafe,34.0,acct_1,BYN,tag_1
+2025-08-02 00:00:00,Expense,Cafe,18.0,acct_1,BYN,tag_1
+2025-08-01 00:00:00,Expense,Food,5.0,acct_3,BYN,tag_1
+2025-08-01 00:00:00,Expense,Public transport,1.0,acct_2,BYN,tag_4
+2025-07-31 00:00:00,Expense,Health,31.0,acct_3,BYN,tag_1
+2025-07-31 00:00:00,Expense,Public transport,1.0,acct_2,BYN,tag_4
+2025-07-31 00:00:00,Expense,Food,14.0,acct_3,BYN,tag_1
+2025-07-31 00:00:00,Expense,Leisure,10.0,acct_1,BYN,tag_1
+2025-07-30 00:00:00,Expense,Public transport,1.0,acct_2,BYN,tag_4
+2025-07-30 00:00:00,Expense,Public transport,1.0,acct_2,BYN,tag_4
+2025-07-29 00:00:00,Expense,Other,0.0,acct_3,BYN,tag_1
+2025-07-28 00:00:00,Expense,Health,12.0,acct_1,BYN,tag_1
+2025-07-23 00:00:00,Expense,Food,16.0,acct_1,BYN,tag_1
+2025-07-22 00:00:00,Expense,Public transport,2.0,acct_2,BYN,tag_4
+2025-07-22 00:00:00,Expense,Food,0.0,acct_3,BYN,tag_1
+2025-07-22 00:00:00,Expense,Food,6.0,acct_1,BYN,tag_1
+2025-07-22 00:00:00,Expense,Public transport,1.0,acct_2,BYN,tag_4
+2025-07-21 00:00:00,Expense,Food,27.0,acct_1,BYN,tag_1
+2025-07-21 00:00:00,Expense,Food,4.0,acct_1,BYN,tag_1
+2025-07-21 00:00:00,Expense,Public transport,1.0,acct_2,BYN,tag_4
+2025-07-21 00:00:00,Expense,Food,1.0,acct_3,BYN,tag_1
+2025-07-21 00:00:00,Expense,Public transport,1.0,acct_2,BYN,tag_4
+2025-07-21 00:00:00,Expense,Food,3.0,acct_3,BYN,tag_1
+2025-07-21 00:00:00,Expense,Leisure,11.0,acct_3,BYN,tag_1
+2025-07-20 00:00:00,Expense,Taxi,14.0,acct_3,BYN,tag_1
+2025-07-20 00:00:00,Expense,Public transport,2.0,acct_2,BYN,tag_3
+2025-07-20 00:00:00,Expense,Job,64.0,acct_1,BYN,tag_1
+2025-07-20 00:00:00,Expense,Cafe,8.0,acct_1,BYN,tag_1
+2025-07-20 00:00:00,Expense,Food,10.0,acct_1,BYN,tag_1
+2025-07-20 00:00:00,Expense,Leisure,11.0,acct_1,BYN,tag_1
+2025-07-19 00:00:00,Expense,Food,40.0,acct_1,BYN,tag_1
+2025-07-19 00:00:00,Expense,Job,11.0,acct_3,BYN,tag_1
+2025-07-18 00:00:00,Expense,Public transport,1.0,acct_2,BYN,tag_4
+2025-07-17 00:00:00,Expense,Public transport,1.0,acct_2,BYN,tag_4
+2025-07-17 00:00:00,Expense,Health,36.0,acct_1,BYN,tag_1
+2025-07-17 00:00:00,Expense,Public transport,1.0,acct_2,BYN,tag_4
+2025-07-16 00:00:00,Expense,Fines,24.0,acct_1,BYN,tag_1
+2025-07-16 00:00:00,Expense,Food,4.0,acct_1,BYN,tag_1
+2025-07-16 00:00:00,Expense,Taxi,21.0,acct_1,BYN,tag_1
+2025-07-16 00:00:00,Expense,Public transport,1.0,acct_2,BYN,tag_4
+2025-07-16 00:00:00,Expense,Public transport,1.0,acct_2,BYN,tag_4
+2025-07-16 00:00:00,Expense,Public transport,1.0,acct_2,BYN,tag_4
+2025-07-15 00:00:00,Expense,Public transport,1.0,acct_2,BYN,tag_4
+2025-07-12 00:00:00,Expense,Gifts,36.0,acct_1,BYN,tag_1
+2025-07-12 00:00:00,Expense,Food,12.0,acct_1,BYN,tag_1
+2025-07-12 00:00:00,Expense,Food,4.0,acct_1,BYN,tag_1
+2025-07-12 00:00:00,Expense,Food,5.0,acct_1,BYN,tag_1
+2025-07-11 00:00:00,Expense,Gifts,4.0,acct_1,BYN,tag_1
+2025-07-11 00:00:00,Expense,Public transport,1.0,acct_2,BYN,tag_4
+2025-07-11 00:00:00,Expense,Cafe,1.0,acct_3,BYN,tag_1
+2025-07-11 00:00:00,Expense,Food,27.0,acct_1,BYN,tag_1
+2025-07-09 00:00:00,Expense,Public transport,1.0,acct_2,BYN,tag_4
+2025-07-09 00:00:00,Expense,Public transport,1.0,acct_2,BYN,tag_4
+2025-07-09 00:00:00,Expense,Food,5.0,acct_1,BYN,tag_1
+2025-07-09 00:00:00,Expense,Public transport,1.0,acct_2,BYN,tag_4
+2025-07-09 00:00:00,Expense,Cafe,14.0,acct_3,BYN,tag_1
+2025-07-09 00:00:00,Expense,Cafe,4.0,acct_3,BYN,tag_1
+2025-07-08 00:00:00,Expense,Cafe,1.0,acct_3,BYN,tag_1
+2025-07-08 00:00:00,Expense,Cafe,10.0,acct_3,BYN,tag_1
+2025-07-07 00:00:00,Expense,Job,32.0,acct_3,BYN,2th_work
+2025-07-07 00:00:00,Expense,Public transport,1.0,acct_2,BYN,tag_4
+2025-07-07 00:00:00,Expense,Taxi,9.0,acct_1,BYN,tag_1
+2025-07-07 00:00:00,Expense,Taxi,17.0,acct_1,BYN,tag_1
+2025-07-07 00:00:00,Expense,Cafe,3.0,acct_3,BYN,tag_1
+2025-07-07 00:00:00,Expense,Cafe,10.0,acct_1,BYN,tag_1
+2025-07-06 00:00:00,Expense,Food,6.0,acct_1,BYN,tag_1
+2025-07-06 00:00:00,Expense,Food,1.0,acct_3,BYN,tag_1
+2025-07-06 00:00:00,Expense,Food,11.0,acct_1,BYN,tag_1
+2025-07-06 00:00:00,Expense,Leisure,28.0,acct_1,BYN,tag_1
+2025-07-06 00:00:00,Expense,Food,23.0,acct_1,BYN,tag_1
+2025-07-06 00:00:00,Expense,Loan given,17.0,acct_1,BYN,tag_1
+2025-07-05 00:00:00,Expense,Taxi,11.0,acct_1,BYN,tag_1
+2025-07-05 00:00:00,Expense,Food,5.0,acct_1,BYN,tag_1
+2025-07-04 00:00:00,Expense,Food,15.0,acct_1,BYN,tag_1
+2025-07-04 00:00:00,Expense,Public transport,1.0,acct_2,BYN,tag_4
+2025-07-04 00:00:00,Expense,Public transport,2.0,acct_2,BYN,tag_1
+2025-07-04 00:00:00,Expense,Public transport,1.0,acct_2,BYN,tag_4
+2025-07-04 00:00:00,Expense,Leisure,21.0,acct_1,BYN,tag_1
+2025-07-03 00:00:00,Expense,Cafe,9.0,acct_1,BYN,tag_1
+2025-07-03 00:00:00,Expense,Public transport,1.0,acct_2,BYN,tag_3
+2025-07-02 00:00:00,Expense,Gifts,59.0,acct_1,BYN,tag_1
+2025-07-02 00:00:00,Expense,Food,5.0,acct_1,BYN,tag_1
+2025-07-02 00:00:00,Expense,Public transport,1.0,acct_2,BYN,tag_4
+2025-07-02 00:00:00,Expense,Food,4.0,acct_1,BYN,tag_1
+2025-07-02 00:00:00,Expense,Public transport,1.0,acct_2,BYN,tag_4
+2025-07-02 00:00:00,Expense,Public transport,1.0,acct_2,BYN,tag_4
+2025-07-01 00:00:00,Expense,Food,4.0,acct_1,BYN,tag_1
+2025-06-30 00:00:00,Expense,Food,6.0,acct_1,BYN,tag_1
+2025-06-30 00:00:00,Expense,Cafe,21.0,acct_1,BYN,tag_1
+2025-06-30 00:00:00,Expense,Public transport,1.0,acct_2,BYN,tag_4
+2025-06-30 00:00:00,Expense,Food,8.0,acct_1,BYN,tag_1
+2025-06-30 00:00:00,Expense,Public transport,1.0,acct_2,BYN,tag_4
+2025-06-29 00:00:00,Expense,Food,17.0,acct_1,BYN,tag_1
+2025-06-28 00:00:00,Expense,Leisure,11.0,acct_3,BYN,tag_1
+2025-06-28 00:00:00,Expense,Cafe,20.0,acct_1,BYN,tag_1
+2025-06-28 00:00:00,Expense,Public transport,1.0,acct_2,BYN,tag_2
+2025-06-28 00:00:00,Expense,Food,6.0,acct_1,BYN,tag_1
+2025-06-27 00:00:00,Expense,Taxi,18.0,acct_1,BYN,tag_1
+2025-06-27 00:00:00,Expense,Food,5.0,acct_1,BYN,tag_1
+2025-06-27 00:00:00,Expense,Public transport,1.0,acct_2,BYN,tag_4
+2025-06-27 00:00:00,Expense,Public transport,1.0,acct_2,BYN,tag_3
+2025-06-27 00:00:00,Expense,Public transport,1.0,acct_2,BYN,tag_4
+2025-06-26 00:00:00,Expense,Cafe,11.0,acct_1,BYN,tag_1
+2025-06-26 00:00:00,Expense,Public transport,1.0,acct_2,BYN,tag_4
+2025-06-25 00:00:00,Expense,Public transport,1.0,acct_2,BYN,tag_4
+2025-06-25 00:00:00,Expense,Food,6.0,acct_1,BYN,tag_1
+2025-06-25 00:00:00,Expense,Public transport,1.0,acct_2,BYN,tag_4
+2025-06-25 00:00:00,Expense,Public transport,1.0,acct_2,BYN,tag_4
+2025-06-25 00:00:00,Expense,Food,5.0,acct_1,BYN,tag_1
+2025-06-24 00:00:00,Expense,Taxi,16.0,acct_1,BYN,tag_1
+2025-06-24 00:00:00,Expense,Cafe,4.0,acct_1,BYN,tag_1
+2025-06-24 00:00:00,Expense,Public transport,2.0,acct_2,BYN,tag_2
+2025-06-23 00:00:00,Expense,Cafe,16.0,acct_1,BYN,tag_1
+2025-06-22 00:00:00,Expense,Leisure,8.0,acct_1,BYN,tag_1
+2025-06-21 00:00:00,Expense,Health,25.0,acct_1,BYN,tag_1
+2025-06-20 00:00:00,Expense,Food,2.0,acct_3,BYN,tag_1
+2025-06-20 00:00:00,Expense,Public transport,1.0,acct_2,BYN,tag_4
+2025-06-20 00:00:00,Expense,Public transport,1.0,acct_2,BYN,tag_4
+2025-06-20 00:00:00,Expense,Taxi,21.0,acct_1,BYN,tag_5
+2025-06-20 00:00:00,Expense,Cafe,3.0,acct_3,BYN,tag_1
+2025-06-20 00:00:00,Expense,Cafe,29.0,acct_1,BYN,tag_1
+2025-06-20 00:00:00,Expense,Public transport,2.0,acct_2,BYN,tag_2
+2025-06-19 00:00:00,Expense,Cafe,15.0,acct_1,BYN,tag_1
+2025-06-19 00:00:00,Expense,Taxi,11.0,acct_1,BYN,2th_work
+2025-06-18 00:00:00,Expense,Leisure,28.0,acct_1,BYN,tag_1
+2025-06-18 00:00:00,Expense,Public transport,1.0,acct_2,BYN,tag_4
+2025-06-18 00:00:00,Expense,Public transport,1.0,acct_2,BYN,tag_4
+2025-06-17 00:00:00,Expense,Public transport,1.0,acct_2,BYN,tag_4
+2025-06-16 00:00:00,Expense,Public transport,1.0,acct_2,BYN,tag_6
+2025-06-16 00:00:00,Expense,Public transport,1.0,acct_2,BYN,tag_6
+2025-06-16 00:00:00,Expense,Health,5.0,acct_1,BYN,tag_1
+2025-06-16 00:00:00,Expense,Food,5.0,acct_1,BYN,tag_1
+2025-06-16 00:00:00,Expense,Public transport,1.0,acct_2,BYN,tag_2
+2025-06-16 00:00:00,Expense,Cafe,6.0,acct_1,BYN,tag_1
+2025-06-16 00:00:00,Expense,Public transport,1.0,acct_2,BYN,tag_2
+2025-06-14 00:00:00,Expense,Public transport,1.0,acct_2,BYN,tag_4
+2025-06-14 00:00:00,Expense,Taxi,16.0,acct_1,BYN,tag_1
+2025-06-13 00:00:00,Expense,Public transport,1.0,acct_2,BYN,tag_4
+2025-06-12 00:00:00,Expense,Food,16.0,acct_1,BYN,tag_1
+2025-06-11 00:00:00,Expense,Health,43.0,acct_1,BYN,tag_1
+2025-06-11 00:00:00,Expense,Food,11.0,acct_1,BYN,tag_1
+2025-06-11 00:00:00,Expense,Public transport,1.0,acct_2,BYN,tag_2
+2025-06-10 00:00:00,Expense,Taxi,13.0,acct_3,BYN,tag_1
+2025-06-10 00:00:00,Expense,Taxi,10.0,acct_1,BYN,tag_1
+2025-06-10 00:00:00,Expense,Health,12.0,acct_1,BYN,tag_1
+2025-06-10 00:00:00,Expense,Public transport,1.0,acct_2,BYN,tag_4
+2025-06-10 00:00:00,Expense,Health,43.0,acct_1,BYN,tag_1
+2025-06-10 00:00:00,Expense,Public transport,1.0,acct_2,BYN,tag_4
+2025-06-10 00:00:00,Expense,Public transport,1.0,acct_2,BYN,tag_4
+2025-06-09 00:00:00,Expense,Food,10.0,acct_1,BYN,tag_1
+2025-06-09 00:00:00,Expense,Taxi,11.0,acct_3,BYN,tag_1
+2025-06-09 00:00:00,Expense,Public transport,1.0,acct_2,BYN,tag_4
+2025-06-09 00:00:00,Expense,Loan given,18.0,acct_1,BYN,tag_1
+2025-06-08 00:00:00,Expense,Food,19.0,acct_3,BYN,tag_1
+2025-06-08 00:00:00,Expense,Gifts,10.0,acct_1,BYN,tag_1
+2025-06-07 00:00:00,Expense,Public transport,1.0,acct_2,BYN,tag_4
+2025-06-07 00:00:00,Expense,Food,10.0,acct_1,BYN,tag_1
+2025-06-06 00:00:00,Expense,Taxi,15.0,acct_1,BYN,tag_1
+2025-06-06 00:00:00,Expense,Food,6.0,acct_1,BYN,tag_1
+2025-06-04 00:00:00,Expense,Health,27.0,acct_1,BYN,tag_1
+2025-06-04 00:00:00,Expense,Public transport,1.0,acct_2,BYN,tag_2
+2025-06-03 00:00:00,Expense,Public transport,1.0,acct_2,BYN,tag_2
+2025-06-03 00:00:00,Expense,Food,23.0,acct_1,BYN,tag_1
+2025-06-03 00:00:00,Expense,Public transport,1.0,acct_2,BYN,tag_2
+2025-06-03 00:00:00,Expense,Public transport,1.0,acct_2,BYN,tag_2
+2025-06-03 00:00:00,Expense,Cafe,5.0,acct_1,BYN,tag_1
+2025-06-03 00:00:00,Expense,Public transport,1.0,acct_2,BYN,tag_2
+2025-06-02 00:00:00,Expense,Public transport,1.0,acct_2,BYN,tag_4
+2025-06-02 00:00:00,Expense,Public transport,5.0,acct_1,BYN,tag_4
+2025-06-02 00:00:00,Expense,Food,6.0,acct_1,BYN,tag_1
+2025-06-02 00:00:00,Expense,Food,1.0,acct_3,BYN,tag_1
+2025-05-30 00:00:00,Expense,Public transport,1.0,acct_2,BYN,tag_2
+2025-05-30 00:00:00,Expense,Public transport,1.0,acct_2,BYN,tag_2
+2025-05-30 00:00:00,Expense,Food,11.0,acct_1,BYN,tag_1
+2025-05-29 00:00:00,Expense,Cafe,3.0,acct_3,BYN,tag_1
+2025-05-29 00:00:00,Expense,Cafe,2.0,acct_3,BYN,tag_1
+2025-05-29 00:00:00,Expense,Public transport,1.0,acct_2,BYN,tag_3
+2025-05-29 00:00:00,Expense,University,2.0,acct_3,BYN,tag_1
+2025-05-28 00:00:00,Expense,Public transport,2.0,acct_2,BYN,tag_6
+2025-05-28 00:00:00,Expense,Public transport,1.0,acct_2,BYN,tag_2
+2025-05-28 00:00:00,Expense,Cafe,6.0,acct_3,BYN,tag_1
+2025-05-28 00:00:00,Expense,Public transport,1.0,acct_2,BYN,tag_3
+2025-05-27 00:00:00,Expense,Public transport,1.0,acct_2,BYN,tag_2
+2025-05-27 00:00:00,Expense,Cafe,3.0,acct_3,BYN,tag_1
+2025-05-27 00:00:00,Expense,Cafe,1.0,acct_3,BYN,tag_1
+2025-05-27 00:00:00,Expense,Public transport,1.0,acct_2,BYN,tag_2
+2025-05-25 00:00:00,Expense,Cafe,2.0,acct_3,BYN,tag_1
+2025-05-25 00:00:00,Expense,Taxi,18.0,acct_3,BYN,tag_1
+2025-05-25 00:00:00,Expense,Gifts,139.0,acct_1,BYN,tag_1
+2025-05-24 00:00:00,Expense,Public transport,2.0,acct_2,BYN,tag_2
+2025-05-24 00:00:00,Expense,Cafe,20.0,acct_1,BYN,tag_1
+2025-05-24 00:00:00,Expense,Leisure,42.0,acct_3,BYN,tag_1
+2025-05-24 00:00:00,Expense,Taxi,24.0,acct_1,BYN,tag_1
+2025-05-23 00:00:00,Expense,Public transport,1.0,acct_2,BYN,tag_4
+2025-05-23 00:00:00,Expense,Public transport,1.0,acct_2,BYN,tag_2
+2025-05-23 00:00:00,Expense,Cafe,1.0,acct_3,BYN,tag_1
+2025-05-23 00:00:00,Expense,Public transport,1.0,acct_2,BYN,tag_2
+2025-05-22 00:00:00,Expense,Cafe,2.0,acct_3,BYN,tag_1
+2025-05-22 00:00:00,Expense,Public transport,1.0,acct_2,BYN,tag_2
+2025-05-21 00:00:00,Expense,Public transport,1.0,acct_2,BYN,tag_6
+2025-05-21 00:00:00,Expense,Public transport,1.0,acct_2,BYN,tag_2
+2025-05-21 00:00:00,Expense,Cafe,3.0,acct_3,BYN,tag_1
+2025-05-21 00:00:00,Expense,Cafe,1.0,acct_3,BYN,tag_1
+2025-05-21 00:00:00,Expense,Public transport,1.0,acct_2,BYN,tag_2
+2025-05-20 00:00:00,Expense,Public transport,1.0,acct_2,BYN,tag_3
+2025-05-20 00:00:00,Expense,Public transport,1.0,acct_2,BYN,tag_4
+2025-05-20 00:00:00,Expense,Public transport,1.0,acct_2,BYN,tag_2
+2025-05-19 00:00:00,Expense,Job,3.0,acct_3,BYN,2th_work
+2025-05-19 00:00:00,Expense,Job,23.0,acct_3,BYN,tag_1
+2025-05-18 00:00:00,Expense,Gifts,9.0,acct_1,BYN,tag_1
+2025-05-18 00:00:00,Expense,Food,6.0,acct_1,BYN,tag_1
+2025-05-16 00:00:00,Expense,Cafe,6.0,acct_1,BYN,tag_1
+2025-05-16 00:00:00,Expense,Taxi,14.0,acct_1,BYN,tag_1
+2025-05-15 00:00:00,Expense,Public transport,1.0,acct_2,BYN,tag_1
+2025-05-15 00:00:00,Expense,Public transport,1.0,acct_2,BYN,tag_4
+2025-05-15 00:00:00,Expense,Public transport,1.0,acct_2,BYN,tag_2
+2025-05-15 00:00:00,Expense,Gifts,33.0,acct_1,BYN,tag_1
+2025-05-15 00:00:00,Expense,Cafe,6.0,acct_1,BYN,tag_1
+2025-05-15 00:00:00,Expense,Public transport,1.0,acct_2,BYN,tag_2
+2025-05-14 00:00:00,Expense,Public transport,1.0,acct_2,BYN,tag_2
+2025-05-14 00:00:00,Expense,Cafe,5.0,acct_1,BYN,tag_1
+2025-05-14 00:00:00,Expense,Public transport,1.0,acct_2,BYN,tag_2
+2025-05-13 00:00:00,Expense,Public transport,1.0,acct_2,BYN,tag_4
+2025-05-13 00:00:00,Expense,Public transport,1.0,acct_2,BYN,tag_4
+2025-05-13 00:00:00,Expense,Public transport,1.0,acct_2,BYN,tag_2
+2025-05-13 00:00:00,Expense,Cafe,8.0,acct_1,BYN,tag_1
+2025-05-12 00:00:00,Expense,Gifts,42.0,acct_1,BYN,tag_1
+2025-05-12 00:00:00,Expense,Public transport,1.0,acct_2,BYN,tag_1
+2025-05-12 00:00:00,Expense,Cafe,5.0,acct_1,BYN,tag_1
+2025-05-11 00:00:00,Expense,Taxi,10.0,acct_1,BYN,tag_1
+2025-05-09 00:00:00,Expense,Cafe,11.0,acct_1,BYN,tag_1
+2025-05-09 00:00:00,Expense,Gifts,9.0,acct_1,BYN,tag_1
+2025-05-09 00:00:00,Expense,Gifts,8.0,acct_1,BYN,tag_1
+2025-05-08 00:00:00,Expense,Public transport,1.0,acct_2,BYN,tag_2
+2025-05-07 00:00:00,Expense,Public transport,1.0,acct_2,BYN,tag_4
+2025-05-07 00:00:00,Expense,Cafe,5.0,acct_1,BYN,tag_1
+2025-05-07 00:00:00,Expense,Public transport,1.0,acct_2,BYN,tag_2
+2025-05-07 00:00:00,Expense,Public transport,1.0,acct_2,BYN,tag_2
+2025-05-06 00:00:00,Expense,Public transport,1.0,acct_2,BYN,tag_3
+2025-05-06 00:00:00,Expense,Public transport,1.0,acct_2,BYN,tag_4
+2025-05-06 00:00:00,Expense,Public transport,1.0,acct_2,BYN,tag_2
+2025-05-06 00:00:00,Expense,Public transport,1.0,acct_2,BYN,tag_2
+2025-05-05 00:00:00,Expense,Food,4.0,acct_1,BYN,tag_1
+2025-05-05 00:00:00,Expense,Taxi,14.0,acct_1,BYN,tag_1
+2025-05-05 00:00:00,Expense,Cafe,5.0,acct_1,BYN,tag_1
+2025-05-05 00:00:00,Expense,Public transport,1.0,acct_2,BYN,tag_2
+2025-05-04 00:00:00,Expense,Food,1.0,acct_3,BYN,tag_1
+2025-05-04 00:00:00,Expense,Cafe,17.0,acct_1,BYN,tag_1
+2025-05-03 00:00:00,Expense,Public transport,1.0,acct_2,BYN,tag_2
+2025-05-03 00:00:00,Expense,Taxi,16.0,acct_1,BYN,tag_1
+2025-05-02 00:00:00,Expense,Leisure,33.0,acct_1,BYN,tag_1
+2025-05-02 00:00:00,Expense,Public transport,1.0,acct_2,BYN,tag_2
+2025-05-02 00:00:00,Expense,Cafe,4.0,acct_1,BYN,tag_1
+2025-05-01 00:00:00,Expense,Taxi,12.0,acct_1,BYN,tag_1
+2025-05-01 00:00:00,Expense,Food,11.0,acct_1,BYN,tag_1
+2025-04-29 00:00:00,Expense,Other,654.0,acct_1,BYN,tag_1
+2025-04-28 00:00:00,Expense,Food,5.0,acct_1,BYN,tag_1
+2025-04-27 00:00:00,Expense,Cafe,0.0,acct_3,BYN,tag_1
+2025-04-27 00:00:00,Expense,Cafe,0.0,acct_3,BYN,tag_1
+2025-04-27 00:00:00,Expense,Cafe,5.0,acct_1,BYN,tag_1
+2025-04-27 00:00:00,Expense,Leisure,5.0,acct_1,BYN,tag_1
+2025-04-26 00:00:00,Expense,Taxi,12.0,acct_1,BYN,tag_1
+2025-04-26 00:00:00,Expense,Cafe,5.0,acct_1,BYN,tag_1
+2025-04-25 00:00:00,Expense,Food,16.0,acct_1,BYN,tag_1
+2025-04-25 00:00:00,Expense,Cafe,2.0,acct_3,BYN,tag_1
+2025-04-25 00:00:00,Expense,Health,25.0,acct_1,BYN,tag_1
+2025-04-25 00:00:00,Expense,Taxi,11.0,acct_1,BYN,tag_1
+2025-04-23 00:00:00,Expense,Public transport,1.0,acct_2,BYN,tag_6
+2025-04-23 00:00:00,Expense,Public transport,1.0,acct_2,BYN,tag_4
+2025-04-23 00:00:00,Expense,Public transport,1.0,acct_2,BYN,tag_3
+2025-04-23 00:00:00,Expense,Public transport,1.0,acct_2,BYN,tag_3
+2025-04-23 00:00:00,Expense,Public transport,1.0,acct_2,BYN,tag_3
+2025-04-22 00:00:00,Expense,Food,2.0,acct_3,BYN,tag_1
+2025-04-22 00:00:00,Expense,Cafe,23.0,acct_1,BYN,tag_1
+2025-04-22 00:00:00,Expense,Public transport,1.0,acct_2,BYN,tag_3
+2025-04-22 00:00:00,Expense,Public transport,1.0,acct_2,BYN,tag_3
+2025-04-21 00:00:00,Expense,Public transport,1.0,acct_2,BYN,tag_6
+2025-04-21 00:00:00,Expense,Public transport,1.0,acct_2,BYN,tag_2
+2025-04-21 00:00:00,Expense,Public transport,1.0,acct_2,BYN,tag_3
+2025-04-19 00:00:00,Expense,Food,2.0,acct_3,BYN,tag_1
+2025-04-18 00:00:00,Expense,Cafe,15.0,acct_1,BYN,tag_1
+2025-04-18 00:00:00,Expense,Gifts,12.0,acct_3,BYN,tag_1
+2025-04-18 00:00:00,Expense,Public transport,1.0,acct_2,BYN,tag_3
+2025-04-18 00:00:00,Expense,Public transport,1.0,acct_2,BYN,tag_3
+2025-04-17 00:00:00,Expense,Public transport,1.0,acct_2,BYN,tag_3
+2025-04-16 00:00:00,Expense,Public transport,1.0,acct_2,BYN,tag_6
+2025-04-16 00:00:00,Expense,Cafe,1.0,acct_3,BYN,tag_1
+2025-04-16 00:00:00,Expense,Public transport,1.0,acct_2,BYN,tag_2
+2025-04-16 00:00:00,Expense,Public transport,1.0,acct_2,BYN,tag_2
+2025-04-15 00:00:00,Expense,Public transport,1.0,acct_2,BYN,tag_4
+2025-04-15 00:00:00,Expense,Cafe,5.0,acct_1,BYN,tag_1
+2025-04-15 00:00:00,Expense,Cafe,6.0,acct_1,BYN,tag_1
+2025-04-15 00:00:00,Expense,Public transport,1.0,acct_2,BYN,tag_4
+2025-04-14 00:00:00,Expense,Public transport,1.0,acct_2,BYN,tag_2
+2025-04-14 00:00:00,Expense,Public transport,1.0,acct_2,BYN,tag_6
+2025-04-14 00:00:00,Expense,Public transport,1.0,acct_2,BYN,tag_2
+2025-04-14 00:00:00,Expense,Gifts,9.0,acct_1,BYN,tag_1
+2025-04-14 00:00:00,Expense,Cafe,3.0,acct_3,BYN,tag_1
+2025-04-12 00:00:00,Expense,Public transport,1.0,acct_2,BYN,tag_2
+2025-04-12 00:00:00,Expense,Public transport,1.0,acct_2,BYN,tag_2
+2025-04-11 00:00:00,Expense,Clothes,161.0,acct_1,BYN,tag_1
+2025-04-11 00:00:00,Expense,Public transport,1.0,acct_2,BYN,tag_2
+2025-04-10 00:00:00,Expense,Public transport,1.0,acct_2,BYN,tag_2
+2025-04-10 00:00:00,Expense,Cafe,6.0,acct_1,BYN,tag_1
+2025-04-10 00:00:00,Expense,Taxi,9.0,acct_1,BYN,tag_1
+2025-04-10 00:00:00,Expense,Public transport,1.0,acct_2,BYN,tag_3
+2025-04-09 00:00:00,Expense,Public transport,1.0,acct_2,BYN,tag_3
+2025-04-09 00:00:00,Expense,Food,11.0,acct_1,BYN,tag_1
+2025-04-09 00:00:00,Expense,Cafe,4.0,acct_1,BYN,tag_1
+2025-04-09 00:00:00,Expense,Public transport,1.0,acct_2,BYN,tag_2
+2025-04-09 00:00:00,Expense,Cafe,6.0,acct_1,BYN,tag_1
+2025-04-08 00:00:00,Expense,Public transport,1.0,acct_2,BYN,tag_3
+2025-04-08 00:00:00,Expense,Public transport,1.0,acct_2,BYN,tag_3
+2025-04-08 00:00:00,Expense,Public transport,1.0,acct_2,BYN,tag_2
+2025-04-08 00:00:00,Expense,Cafe,6.0,acct_1,BYN,tag_1
+2025-04-08 00:00:00,Expense,Taxi,9.0,acct_1,BYN,tag_1
+2025-04-07 00:00:00,Expense,Public transport,1.0,acct_2,BYN,tag_2
+2025-04-07 00:00:00,Expense,Cafe,3.0,acct_3,BYN,tag_1
+2025-04-07 00:00:00,Expense,Leisure,41.0,acct_3,BYN,tag_1
+2025-04-07 00:00:00,Expense,Public transport,1.0,acct_2,BYN,tag_2
+2025-04-05 00:00:00,Expense,Taxi,5.0,acct_1,BYN,tag_1
+2025-04-05 00:00:00,Expense,Taxi,13.0,acct_1,BYN,tag_1
+2025-04-04 00:00:00,Expense,Public transport,1.0,acct_2,BYN,tag_2
+2025-04-04 00:00:00,Expense,Cafe,3.0,acct_3,BYN,tag_1
+2025-04-04 00:00:00,Expense,Public transport,1.0,acct_2,BYN,tag_2
+2025-04-03 00:00:00,Expense,Food,14.0,acct_1,BYN,tag_1
+2025-04-03 00:00:00,Expense,Cafe,3.0,acct_3,BYN,tag_1
+2025-04-03 00:00:00,Expense,Public transport,1.0,acct_2,BYN,tag_2
+2025-04-03 00:00:00,Expense,Cafe,3.0,acct_3,BYN,tag_1
+2025-04-02 00:00:00,Expense,Public transport,1.0,acct_2,BYN,tag_6
+2025-04-02 00:00:00,Expense,Food,4.0,acct_3,BYN,tag_1
+2025-04-02 00:00:00,Expense,Public transport,1.0,acct_2,BYN,tag_6
+2025-04-02 00:00:00,Expense,Public transport,1.0,acct_2,BYN,tag_3
+2025-04-02 00:00:00,Expense,Public transport,2.0,acct_2,BYN,tag_3
+2025-04-02 00:00:00,Expense,Taxi,7.0,acct_3,BYN,tag_1
+2025-04-02 00:00:00,Expense,Cafe,6.0,acct_1,BYN,tag_1
+2025-04-02 00:00:00,Expense,Cafe,1.0,acct_3,BYN,tag_1
+2025-04-02 00:00:00,Expense,Public transport,1.0,acct_2,BYN,tag_1
+2025-04-01 00:00:00,Expense,Public transport,1.0,acct_2,BYN,tag_3
+2025-04-01 00:00:00,Expense,Public transport,1.0,acct_2,BYN,tag_3
+2025-04-01 00:00:00,Expense,Public transport,1.0,acct_2,BYN,tag_2
+2025-04-01 00:00:00,Expense,Cafe,2.0,acct_3,BYN,tag_1
+2025-04-01 00:00:00,Expense,Cafe,3.0,acct_3,BYN,tag_1
+2025-04-01 00:00:00,Expense,Public transport,1.0,acct_2,BYN,tag_2
+2025-03-31 00:00:00,Expense,Public transport,1.0,acct_2,BYN,tag_2
+2025-03-31 00:00:00,Expense,Taxi,15.0,acct_3,BYN,tag_1
+2025-03-31 00:00:00,Expense,Other,12.0,acct_3,BYN,tag_1
+2025-03-31 00:00:00,Expense,Public transport,1.0,acct_2,BYN,tag_2
+2025-03-31 00:00:00,Expense,Cafe,3.0,acct_3,BYN,tag_1
+2025-03-31 00:00:00,Expense,Public transport,1.0,acct_2,BYN,tag_1
+2025-03-29 00:00:00,Expense,Food,0.0,acct_3,BYN,tag_1
+2025-03-29 00:00:00,Expense,Food,9.0,acct_3,BYN,tag_1
+2025-03-28 00:00:00,Expense,Taxi,3.0,acct_3,BYN,tag_1
+2025-03-28 00:00:00,Expense,Taxi,2.0,acct_3,BYN,tag_1
+2025-03-28 00:00:00,Expense,Other,36.0,acct_1,BYN,tag_1
+2025-03-28 00:00:00,Expense,Public transport,1.0,acct_2,BYN,tag_2
+2025-03-28 00:00:00,Expense,Public transport,1.0,acct_2,BYN,tag_4
+2025-03-28 00:00:00,Expense,Public transport,1.0,acct_2,BYN,tag_2
+2025-03-28 00:00:00,Expense,Cafe,6.0,acct_3,BYN,tag_1
+2025-03-28 00:00:00,Expense,Public transport,1.0,acct_2,BYN,tag_2
+2025-03-27 00:00:00,Expense,Taxi,16.0,acct_3,BYN,tag_1
+2025-03-27 00:00:00,Expense,Public transport,1.0,acct_2,BYN,tag_3
+2025-03-27 00:00:00,Expense,Cafe,1.0,acct_3,BYN,tag_1
+2025-03-27 00:00:00,Expense,Public transport,1.0,acct_2,BYN,tag_2
+2025-03-27 00:00:00,Expense,Public transport,1.0,acct_2,BYN,tag_2
+2025-03-26 00:00:00,Expense,Gifts,58.0,acct_1,BYN,tag_1
+2025-03-26 00:00:00,Expense,Food,14.0,acct_3,BYN,tag_1
+2025-03-26 00:00:00,Expense,Leisure,42.0,acct_1,BYN,tag_1
+2025-03-25 00:00:00,Expense,Cafe,3.0,acct_3,BYN,tag_1
+2025-03-25 00:00:00,Expense,Gifts,29.0,acct_1,BYN,tag_1
+2025-03-25 00:00:00,Expense,Public transport,1.0,acct_2,BYN,tag_2
+2025-03-25 00:00:00,Expense,Public transport,1.0,acct_2,BYN,tag_4
+2025-03-25 00:00:00,Expense,Public transport,1.0,acct_2,BYN,tag_2
+2025-03-25 00:00:00,Expense,Public transport,1.0,acct_2,BYN,tag_2
+2025-03-24 00:00:00,Expense,Cafe,24.0,acct_3,BYN,tag_1
+2025-03-24 00:00:00,Expense,Cafe,3.0,acct_3,BYN,tag_1
+2025-03-24 00:00:00,Expense,Public transport,1.0,acct_2,BYN,tag_2
+2025-03-24 00:00:00,Expense,Cafe,4.0,acct_3,BYN,tag_1
+2025-03-24 00:00:00,Expense,Public transport,1.0,acct_2,BYN,tag_2
+2025-03-22 00:00:00,Expense,Taxi,12.0,acct_1,BYN,tag_1
+2025-03-21 00:00:00,Expense,Public transport,1.0,acct_2,BYN,tag_3
+2025-03-21 00:00:00,Expense,Public transport,1.0,acct_2,BYN,tag_2
+2025-03-21 00:00:00,Expense,Cafe,0.0,acct_3,BYN,tag_1
+2025-03-21 00:00:00,Expense,Cafe,6.0,acct_1,BYN,tag_1
+2025-03-21 00:00:00,Expense,Public transport,1.0,acct_2,BYN,tag_2
+2025-03-20 00:00:00,Expense,Public transport,1.0,acct_2,BYN,tag_2
+2025-03-20 00:00:00,Expense,Loan given,12.0,acct_1,BYN,tag_1
+2025-03-19 00:00:00,Expense,Cafe,5.0,acct_1,BYN,tag_1
+2025-03-19 00:00:00,Expense,Taxi,10.0,acct_1,BYN,tag_1
+2025-03-19 00:00:00,Expense,Cafe,5.0,acct_1,BYN,tag_1
+2025-03-18 00:00:00,Expense,Public transport,1.0,acct_2,BYN,tag_3
+2025-03-18 00:00:00,Expense,Public transport,1.0,acct_2,BYN,tag_2
+2025-03-18 00:00:00,Expense,Gifts,21.0,acct_1,BYN,tag_1
+2025-03-18 00:00:00,Expense,Health,6.0,acct_1,BYN,tag_1
+2025-03-18 00:00:00,Expense,Other,53.0,acct_1,BYN,tag_1
+2025-03-17 00:00:00,Expense,Cafe,6.0,acct_1,BYN,tag_1
+2025-03-17 00:00:00,Expense,Cafe,4.0,acct_3,BYN,tag_1
+2025-03-16 00:00:00,Expense,Taxi,4.0,acct_1,BYN,tag_1
+2025-03-15 00:00:00,Expense,Other,43.0,acct_1,BYN,tag_1
+2025-03-15 00:00:00,Expense,Other,33.0,acct_1,BYN,tag_1
+2025-03-13 00:00:00,Expense,Gifts,34.0,acct_1,BYN,tag_1
+2025-03-13 00:00:00,Expense,Gifts,24.0,acct_1,BYN,tag_1
+2025-03-13 00:00:00,Expense,Public transport,1.0,acct_2,BYN,tag_2
+2025-03-13 00:00:00,Expense,Public transport,1.0,acct_2,BYN,tag_2
+2025-03-12 00:00:00,Expense,Public transport,1.0,acct_2,BYN,tag_2
+2025-03-12 00:00:00,Expense,Public transport,1.0,acct_2,BYN,tag_3
+2025-03-12 00:00:00,Expense,Public transport,1.0,acct_2,BYN,tag_2
+2025-03-12 00:00:00,Expense,Public transport,1.0,acct_2,BYN,tag_2
+2025-03-12 00:00:00,Expense,Gifts,82.0,acct_1,BYN,tag_1
+2025-03-11 00:00:00,Expense,Gifts,6.0,acct_1,BYN,tag_1
+2025-03-11 00:00:00,Expense,Other,7.0,acct_3,BYN,tag_1
+2025-03-11 00:00:00,Expense,Other,5.0,acct_3,BYN,tag_1
+2025-03-11 00:00:00,Expense,Other,36.0,acct_3,BYN,tag_1
+2025-03-10 00:00:00,Expense,Cafe,1.0,acct_3,BYN,tag_1
+2025-03-10 00:00:00,Expense,Cafe,3.0,acct_3,BYN,tag_1
+2025-03-10 00:00:00,Expense,Public transport,1.0,acct_2,BYN,tag_6
+2025-03-09 00:00:00,Expense,Other,43.0,acct_3,BYN,tag_1
+2025-03-08 00:00:00,Expense,Gifts,10.0,acct_1,BYN,tag_1
+2025-03-07 00:00:00,Expense,Food,10.0,acct_1,BYN,tag_1
+2025-03-07 00:00:00,Expense,Food,4.0,acct_1,BYN,tag_1
+2025-03-07 00:00:00,Expense,Cafe,6.0,acct_1,BYN,tag_1
+2025-03-07 00:00:00,Expense,Taxi,11.0,acct_1,BYN,tag_1
+2025-03-06 00:00:00,Expense,Public transport,1.0,acct_2,BYN,tag_3
+2025-03-06 00:00:00,Expense,Public transport,1.0,acct_2,BYN,tag_2
+2025-03-06 00:00:00,Expense,Public transport,1.0,acct_2,BYN,tag_2
+2025-03-05 00:00:00,Expense,Loan given,1172.0,acct_1,BYN,tag_1
+2025-03-05 00:00:00,Expense,Other,1156.0,acct_1,BYN,tag_1
+2025-03-05 00:00:00,Expense,Cafe,2.0,acct_3,BYN,tag_1
+2025-03-05 00:00:00,Expense,Gifts,11.0,acct_1,BYN,tag_1
+2025-03-05 00:00:00,Expense,Public transport,1.0,acct_2,BYN,tag_2
+2025-03-05 00:00:00,Expense,Public transport,1.0,acct_2,BYN,tag_2
+2025-03-05 00:00:00,Expense,Gifts,8.0,acct_3,BYN,tag_1
+2025-03-04 00:00:00,Expense,Gifts,0.0,acct_3,BYN,tag_1
+2025-03-04 00:00:00,Expense,Gifts,5.0,acct_1,BYN,tag_1
+2025-03-04 00:00:00,Expense,Gifts,89.0,acct_1,BYN,tag_1
+2025-03-04 00:00:00,Expense,Public transport,1.0,acct_2,BYN,tag_3
+2025-03-04 00:00:00,Expense,Public transport,1.0,acct_2,BYN,tag_2
+2025-03-04 00:00:00,Expense,Cafe,3.0,acct_3,BYN,tag_1
+2025-03-04 00:00:00,Expense,Public transport,1.0,acct_2,BYN,tag_2
+2025-03-03 00:00:00,Expense,Public transport,0.0,acct_2,BYN,tag_4
+2025-03-03 00:00:00,Expense,Public transport,1.0,acct_2,BYN,tag_6
+2025-03-03 00:00:00,Expense,Public transport,1.0,acct_2,BYN,tag_2
+2025-03-01 00:00:00,Expense,Cafe,24.0,acct_1,BYN,tag_1
+2025-02-28 00:00:00,Expense,Food,5.0,acct_1,BYN,tag_1
+2025-02-28 00:00:00,Expense,Cafe,5.0,acct_1,BYN,tag_1
+2025-02-28 00:00:00,Expense,Public transport,1.0,acct_2,BYN,tag_2
+2025-02-27 00:00:00,Expense,Public transport,1.0,acct_2,BYN,tag_3
+2025-02-27 00:00:00,Expense,Public transport,1.0,acct_2,BYN,tag_2
+2025-02-27 00:00:00,Expense,Public transport,1.0,acct_2,BYN,tag_2
+2025-02-26 00:00:00,Expense,Public transport,1.0,acct_2,BYN,tag_3
+2025-02-26 00:00:00,Expense,Public transport,2.0,acct_2,BYN,tag_4
+2025-02-26 00:00:00,Expense,Public transport,1.0,acct_2,BYN,tag_2
+2025-02-26 00:00:00,Expense,Leisure,8.0,acct_1,BYN,tag_1
+2025-02-25 00:00:00,Expense,Public transport,1.0,acct_2,BYN,tag_3
+2025-02-25 00:00:00,Expense,Public transport,1.0,acct_2,BYN,tag_3
+2025-02-25 00:00:00,Expense,Cafe,5.0,acct_1,BYN,tag_1
+2025-02-25 00:00:00,Expense,Public transport,1.0,acct_2,BYN,tag_2
+2025-02-22 00:00:00,Expense,Gifts,11.0,acct_1,BYN,tag_1
+2025-02-22 00:00:00,Expense,Cafe,6.0,acct_1,BYN,tag_1
+2025-02-21 00:00:00,Expense,Loan given,59.0,acct_1,BYN,tag_1
+2025-02-21 00:00:00,Expense,Gifts,18.0,acct_1,BYN,tag_1
+2025-02-21 00:00:00,Expense,Food,13.0,acct_1,BYN,tag_1
+2025-02-19 00:00:00,Expense,Food,21.0,acct_1,BYN,tag_1
+2025-02-19 00:00:00,Expense,Public transport,1.0,acct_2,BYN,tag_2
+2025-02-19 00:00:00,Expense,University,8.0,acct_1,BYN,tag_1
+2025-02-19 00:00:00,Expense,Public transport,1.0,acct_2,BYN,tag_2
+2025-02-18 00:00:00,Expense,Cafe,71.0,acct_1,BYN,tag_1
+2025-02-18 00:00:00,Expense,Public transport,1.0,acct_2,BYN,tag_2
+2025-02-18 00:00:00,Expense,University,10.0,acct_1,BYN,tag_1
+2025-02-18 00:00:00,Expense,Public transport,1.0,acct_2,BYN,tag_2
+2025-02-17 00:00:00,Expense,Health,19.0,acct_1,BYN,tag_1
+2025-02-17 00:00:00,Expense,Health,18.0,acct_1,BYN,tag_1
+2025-02-17 00:00:00,Expense,Public transport,1.0,acct_2,BYN,tag_6
+2025-02-17 00:00:00,Expense,Food,5.0,acct_1,BYN,tag_1
+2025-02-17 00:00:00,Expense,University,13.0,acct_1,BYN,tag_1
+2025-02-15 00:00:00,Expense,Cafe,6.0,acct_1,BYN,tag_1
+2025-02-15 00:00:00,Expense,Public transport,1.0,acct_2,BYN,tag_2
+2025-02-14 00:00:00,Expense,Food,5.0,acct_1,BYN,tag_1
+2025-02-13 00:00:00,Expense,University,10.0,acct_1,BYN,tag_1
+2025-02-13 00:00:00,Expense,Public transport,5.0,acct_1,BYN,tag_1
+2025-02-11 00:00:00,Expense,Health,9.0,acct_1,BYN,tag_1
+2025-02-10 00:00:00,Expense,Taxi,8.0,acct_1,BYN,tag_1
+2025-02-07 00:00:00,Expense,Public transport,1.0,acct_2,BYN,tag_3
+2025-02-07 00:00:00,Expense,Other,16.0,acct_1,BYN,tag_1
+2025-02-07 00:00:00,Expense,Public transport,1.0,acct_2,BYN,tag_3
+2025-02-07 00:00:00,Expense,Public transport,1.0,acct_2,BYN,tag_3
+2025-02-06 00:00:00,Expense,Cafe,17.0,acct_1,BYN,tag_1
+2025-02-06 00:00:00,Expense,Food,4.0,acct_1,BYN,tag_1
+2025-02-05 00:00:00,Expense,Other,19.0,acct_1,BYN,tag_1
+2025-02-05 00:00:00,Expense,Other,48.0,acct_1,BYN,tag_1
+2025-02-05 00:00:00,Expense,Other,29.0,acct_1,BYN,tag_1
+2025-02-04 00:00:00,Expense,Cafe,34.0,acct_1,BYN,tag_1
+2025-02-04 00:00:00,Expense,Health,48.0,acct_1,BYN,tag_1
+2025-02-04 00:00:00,Expense,Public transport,2.0,acct_2,BYN,tag_3
+2025-02-04 00:00:00,Expense,Taxi,15.0,acct_1,BYN,tag_1
+2025-02-03 00:00:00,Expense,Leisure,26.0,acct_1,BYN,tag_1
+2025-02-02 00:00:00,Expense,Cafe,5.0,acct_1,BYN,tag_1
+2025-01-31 00:00:00,Expense,Food,1.0,acct_3,BYN,tag_1
+2025-01-31 00:00:00,Expense,Other,42.0,acct_1,BYN,tag_1
+2025-01-30 00:00:00,Expense,Other,60.0,acct_1,BYN,tag_1
+2025-01-30 00:00:00,Expense,Health,23.0,acct_1,BYN,tag_1
+2025-01-30 00:00:00,Expense,Public transport,5.0,acct_1,BYN,tag_1
+2025-01-29 00:00:00,Expense,Food,0.0,acct_3,BYN,tag_1
+2025-01-28 00:00:00,Expense,Public transport,1.0,acct_2,BYN,tag_3
+2025-01-28 00:00:00,Expense,Public transport,1.0,acct_2,BYN,tag_3
+2025-01-28 00:00:00,Expense,Public transport,1.0,acct_2,BYN,tag_3
+2025-01-28 00:00:00,Expense,Public transport,2.0,acct_2,BYN,tag_4
+2025-01-28 00:00:00,Expense,Public transport,1.0,acct_2,BYN,tag_3
+2025-01-27 00:00:00,Expense,Taxi,12.0,acct_1,BYN,tag_1
+2025-01-27 00:00:00,Expense,Taxi,4.0,acct_1,BYN,tag_1
+2025-01-27 00:00:00,Expense,Food,31.0,acct_1,BYN,tag_1
+2025-01-25 00:00:00,Expense,Public transport,1.0,acct_2,BYN,tag_2
+2025-01-25 00:00:00,Expense,Food,0.0,acct_3,BYN,tag_1
+2025-01-25 00:00:00,Expense,Public transport,1.0,acct_2,BYN,tag_2
+2025-01-24 00:00:00,Expense,Food,12.0,acct_3,BYN,tag_1
+2025-01-24 00:00:00,Expense,Public transport,1.0,acct_2,BYN,tag_3
+2025-01-24 00:00:00,Expense,Public transport,1.0,acct_2,BYN,tag_3
+2025-01-23 00:00:00,Expense,Other,55.0,acct_1,BYN,tag_1
+2025-01-23 00:00:00,Expense,Other,210.0,acct_1,BYN,tag_1
+2025-01-23 00:00:00,Expense,Other,0.0,acct_3,BYN,tag_1
+2025-01-22 00:00:00,Expense,Food,1.0,acct_3,BYN,tag_1
+2025-01-22 00:00:00,Expense,Cafe,70.0,acct_1,BYN,tag_1
+2025-01-22 00:00:00,Expense,Public transport,1.0,acct_2,BYN,tag_4
+2025-01-21 00:00:00,Expense,Fines,21.0,acct_3,BYN,tag_1
+2025-01-21 00:00:00,Expense,Taxi,6.0,acct_3,BYN,tag_1
+2025-01-20 00:00:00,Expense,Public transport,1.0,acct_2,BYN,tag_6
+2025-01-20 00:00:00,Expense,Public transport,2.0,acct_2,BYN,tag_2
+2025-01-20 00:00:00,Expense,Public transport,2.0,acct_2,BYN,tag_2
+2025-01-20 00:00:00,Expense,Food,0.0,acct_3,BYN,tag_1
+2025-01-18 00:00:00,Expense,Gifts,8.0,acct_3,BYN,tag_1
+2025-01-18 00:00:00,Expense,Gifts,170.0,acct_1,BYN,tag_1
+2025-01-18 00:00:00,Expense,Other,61.0,acct_3,BYN,tag_1
+2025-01-18 00:00:00,Expense,Food,14.0,acct_3,BYN,tag_1
+2025-01-17 00:00:00,Expense,Taxi,9.0,acct_3,BYN,tag_1
+2025-01-17 00:00:00,Expense,Public transport,1.0,acct_2,BYN,tag_3
+2025-01-16 00:00:00,Expense,Public transport,1.0,acct_2,BYN,tag_3
+2025-01-16 00:00:00,Expense,Taxi,10.0,acct_3,BYN,tag_1
+2025-01-15 00:00:00,Expense,Public transport,1.0,acct_2,BYN,tag_4
+2025-01-15 00:00:00,Expense,Public transport,1.0,acct_2,BYN,tag_4
+2025-01-15 00:00:00,Expense,Public transport,1.0,acct_2,BYN,tag_2
+2025-01-15 00:00:00,Expense,Food,2.0,acct_3,BYN,tag_1
+2025-01-15 00:00:00,Expense,Public transport,1.0,acct_2,BYN,tag_2
+2025-01-15 00:00:00,Expense,Public transport,1.0,acct_2,BYN,tag_3
+2025-01-14 00:00:00,Expense,Public transport,1.0,acct_2,BYN,tag_3
+2025-01-13 00:00:00,Expense,Food,1.0,acct_3,BYN,tag_1
+2025-01-13 00:00:00,Expense,Food,13.0,acct_1,BYN,tag_1
+2025-01-13 00:00:00,Expense,Public transport,1.0,acct_2,BYN,tag_6
+2025-01-13 00:00:00,Expense,Public transport,1.0,acct_2,BYN,tag_4
+2025-01-12 00:00:00,Expense,Other,70.0,acct_3,BYN,tag_1
+2025-01-11 00:00:00,Expense,Food,6.0,acct_3,BYN,tag_1
+2025-01-10 00:00:00,Expense,Public transport,1.0,acct_2,BYN,tag_2
+2025-01-10 00:00:00,Expense,Public transport,1.0,acct_2,BYN,tag_2
+2025-01-09 00:00:00,Expense,Taxi,14.0,acct_1,BYN,tag_1
+2025-01-08 00:00:00,Expense,Taxi,15.0,acct_1,BYN,tag_1
+2025-01-07 00:00:00,Expense,Food,5.0,acct_1,BYN,tag_1
+2025-11-29 00:00:00,Income,Job,49.0,acct_1,BYN,tag_1
+2025-11-29 00:00:00,Income,Job,18.0,acct_1,BYN,tag_2
+2025-11-29 00:00:00,Income,Job,32.0,acct_1,BYN,tag_3
+2025-11-29 00:00:00,Income,Job,109.0,acct_1,BYN,tag_4
+2025-11-28 00:00:00,Income,Second work,132.0,acct_1,BYN,2th_work
+2025-11-25 00:00:00,Income,Debt return / Borrowed money,49.0,acct_1,BYN,tag_5
+2025-11-25 00:00:00,Income,Job,18.0,acct_1,BYN,tag_1
+2025-11-22 00:00:00,Income,Job,44.0,acct_1,BYN,tag_1
+2025-11-22 00:00:00,Income,Job,10.0,acct_1,BYN,tag_2
+2025-11-22 00:00:00,Income,Job,11.0,acct_1,BYN,tag_3
+2025-11-20 00:00:00,Income,Job,133.0,acct_1,BYN,tag_4
+2025-11-18 00:00:00,Income,Job,17.0,acct_1,BYN,tag_1
+2025-11-15 00:00:00,Income,Job,49.0,acct_1,BYN,tag_2
+2025-11-15 00:00:00,Income,Job,19.0,acct_1,BYN,tag_1
+2025-11-15 00:00:00,Income,Job,31.0,acct_1,BYN,tag_3
+2025-11-15 00:00:00,Income,Debt return / Borrowed money,17.0,acct_2,BYN,tag_5
+2025-11-13 00:00:00,Income,Job,31.0,acct_1,BYN,tag_4
+2025-11-11 00:00:00,Income,Job,17.0,acct_1,BYN,tag_1
+2025-11-11 00:00:00,Income,Job,76.0,acct_1,BYN,tag_4
+2025-11-09 00:00:00,Income,Second work,133.0,acct_1,BYN,2th_work
+2025-11-08 00:00:00,Income,Job,49.0,acct_1,BYN,tag_2
+2025-11-08 00:00:00,Income,Job,10.0,acct_1,BYN,tag_1
+2025-11-08 00:00:00,Income,Job,38.0,acct_1,BYN,tag_3
+2025-11-07 00:00:00,Income,Gift,178.0,acct_1,BYN,tag_5
+2025-11-07 00:00:00,Income,Gift,16.0,acct_1,BYN,tag_5
+2025-11-04 00:00:00,Income,Gift,3.0,acct_2,BYN,tag_5
+2025-11-01 00:00:00,Income,Job,28.0,acct_1,BYN,tag_3
+2025-10-28 00:00:00,Income,Gift,176.0,acct_1,BYN,tag_5
+2025-10-28 00:00:00,Income,Job,23.0,acct_1,BYN,tag_2
+2025-10-28 00:00:00,Income,Job,75.0,acct_1,BYN,tag_1
+2025-10-26 00:00:00,Income,Job,42.0,acct_1,BYN,tag_2
+2025-10-26 00:00:00,Income,Job,12.0,acct_1,BYN,tag_1
+2025-10-25 00:00:00,Income,Second work,371.0,acct_1,BYN,2th_work
+2025-10-25 00:00:00,Income,Job,29.0,acct_1,BYN,tag_3
+2025-10-21 00:00:00,Income,Job,33.0,acct_1,BYN,tag_1
+2025-10-20 00:00:00,Income,Debt return / Borrowed money,1345.0,acct_1,BYN,tag_5
+2025-10-20 00:00:00,Income,Job,67.0,acct_1,BYN,tag_4
+2025-10-20 00:00:00,Income,Gift,13.0,acct_3,BYN,tag_5
+2025-10-18 00:00:00,Income,Job,27.0,acct_1,BYN,tag_2
+2025-10-18 00:00:00,Income,Job,14.0,acct_1,BYN,tag_1
+2025-10-18 00:00:00,Income,Job,10.0,acct_1,BYN,tag_3
+2025-10-17 00:00:00,Income,Gift,197.0,acct_1,BYN,tag_5
+2025-10-15 00:00:00,Income,Job,22.0,acct_1,BYN,tag_4
+2025-10-15 00:00:00,Income,Second work,178.0,acct_1,BYN,2th_work
+2025-10-14 00:00:00,Income,Job,13.0,acct_1,BYN,tag_1
+2025-10-12 00:00:00,Income,Job,16.0,acct_1,BYN,tag_3
+2025-10-11 00:00:00,Income,Job,39.0,acct_1,BYN,tag_1
+2025-10-11 00:00:00,Income,Job,9.0,acct_1,BYN,tag_2
+2025-10-11 00:00:00,Income,Gift,11.0,acct_1,BYN,tag_5
+2025-10-10 00:00:00,Income,Job,22.0,acct_1,BYN,tag_4
+2025-10-10 00:00:00,Income,Job,98.0,acct_1,BYN,tag_6
+2025-10-07 00:00:00,Income,Job,11.0,acct_1,BYN,tag_1
+2025-10-05 00:00:00,Income,Debt return / Borrowed money,25.0,acct_1,BYN,tag_5
+2025-10-04 00:00:00,Income,Job,25.0,acct_1,BYN,tag_1
+2025-10-04 00:00:00,Income,Job,38.0,acct_1,BYN,tag_2
+2025-10-04 00:00:00,Income,Job,45.0,acct_1,BYN,tag_3
+2025-10-04 00:00:00,Income,Gift,7.0,acct_2,BYN,tag_5
+2025-09-30 00:00:00,Income,Job,31.0,acct_1,BYN,tag_1
+2025-09-28 00:00:00,Income,Job,93.0,acct_1,BYN,tag_7
+2025-09-28 00:00:00,Income,Second work,71.0,acct_2,BYN,2th_work
+2025-09-28 00:00:00,Income,Second work,117.0,acct_1,BYN,2th_work
+2025-09-27 00:00:00,Income,Gift,1140.0,acct_1,BYN,tag_5
+2025-09-27 00:00:00,Income,Job,49.0,acct_1,BYN,tag_2
+2025-09-27 00:00:00,Income,Job,36.0,acct_1,BYN,tag_1
+2025-09-27 00:00:00,Income,Job,20.0,acct_1,BYN,tag_3
+2025-09-27 00:00:00,Income,Cashback,7.0,acct_1,BYN,tag_5
+2025-09-27 00:00:00,Income,Gift,58.0,acct_2,BYN,tag_5
+2025-09-25 00:00:00,Income,Gift,79.0,acct_1,BYN,tag_5
+2025-09-25 00:00:00,Income,Gift,678.0,acct_1,BYN,tag_5
+2025-09-24 00:00:00,Income,Job,60.0,acct_1,BYN,tag_4
+2025-09-24 00:00:00,Income,Job,53.0,acct_1,BYN,tag_6
+2025-09-23 00:00:00,Income,Job,17.0,acct_1,BYN,tag_1
+2025-09-23 00:00:00,Income,Gift,1506.0,acct_1,BYN,tag_5
+2025-09-21 00:00:00,Income,Second work,34.0,acct_2,BYN,tag_5
+2025-09-21 00:00:00,Income,Job,77.0,acct_1,BYN,tag_4
+2025-09-20 00:00:00,Income,Second work,88.0,acct_1,BYN,2th_work
+2025-09-20 00:00:00,Income,Job,50.0,acct_1,BYN,tag_2
+2025-09-20 00:00:00,Income,Job,16.0,acct_1,BYN,tag_1
+2025-09-17 00:00:00,Income,Job,28.0,acct_1,BYN,tag_1
+2025-09-15 00:00:00,Income,Second work,279.0,acct_2,BYN,2th_work
+2025-09-14 00:00:00,Income,Second work,15.0,acct_1,BYN,tag_5
+2025-09-14 00:00:00,Income,Job,76.0,acct_1,BYN,tag_7
+2025-09-13 00:00:00,Income,Job,39.0,acct_1,BYN,tag_1
+2025-09-13 00:00:00,Income,Job,39.0,acct_1,BYN,tag_2
+2025-09-13 00:00:00,Income,Job,46.0,acct_1,BYN,tag_3
+2025-09-12 00:00:00,Income,Second work,83.0,acct_1,BYN,tag_5
+2025-09-11 00:00:00,Income,Second work,8.0,acct_1,BYN,tag_5
+2025-09-11 00:00:00,Income,Debt return / Borrowed money,223.0,acct_1,BYN,tag_5
+2025-09-11 00:00:00,Income,Gift,28.0,acct_3,BYN,tag_5
+2025-09-09 00:00:00,Income,Second work,85.0,acct_1,BYN,2th_work
+2025-09-09 00:00:00,Income,Job,13.0,acct_1,BYN,tag_1
+2025-09-07 00:00:00,Income,Job,64.0,acct_1,BYN,tag_6
+2025-09-06 00:00:00,Income,Job,34.0,acct_1,BYN,tag_2
+2025-09-06 00:00:00,Income,Job,28.0,acct_1,BYN,tag_1
+2025-09-06 00:00:00,Income,Job,49.0,acct_1,BYN,tag_3
+2025-09-04 00:00:00,Income,Second work,47.0,acct_1,BYN,tag_5
+2025-09-03 00:00:00,Income,Job,20.0,acct_1,BYN,tag_1
+2025-09-01 00:00:00,Income,Second work,246.0,acct_1,BYN,2th_work
+2025-08-30 00:00:00,Income,Second work,102.0,acct_1,BYN,2th_work
+2025-08-30 00:00:00,Income,Gift,10.0,acct_1,BYN,tag_5
+2025-08-29 00:00:00,Income,Job,22.0,acct_2,BYN,tag_8
+2025-08-28 00:00:00,Income,Second work,52.0,acct_2,BYN,tag_5
+2025-08-28 00:00:00,Income,Second work,250.0,acct_1,BYN,2th_work
+2025-08-27 00:00:00,Income,Job,50.0,acct_2,BYN,tag_8
+2025-08-26 00:00:00,Income,Job,31.0,acct_1,BYN,tag_2
+2025-08-26 00:00:00,Income,Job,18.0,acct_1,BYN,tag_1
+2025-08-25 00:00:00,Income,Job,38.0,acct_1,BYN,tag_8
+2025-08-25 00:00:00,Income,Job,29.0,acct_1,BYN,tag_3
+2025-08-22 00:00:00,Income,Second work,167.0,acct_1,BYN,2th_work
+2025-08-22 00:00:00,Income,Job,43.0,acct_1,BYN,tag_1
+2025-08-22 00:00:00,Income,Job,11.0,acct_1,BYN,tag_2
+2025-08-22 00:00:00,Income,Job,43.0,acct_2,BYN,tag_8
+2025-08-21 00:00:00,Income,Gift,7.0,acct_1,BYN,tag_5
+2025-08-20 00:00:00,Income,Job,27.0,acct_2,BYN,tag_8
+2025-08-20 00:00:00,Income,Job,28.0,acct_1,BYN,tag_1
+2025-08-18 00:00:00,Income,Job,53.0,acct_1,BYN,tag_3
+2025-08-18 00:00:00,Income,Deposit interest,58.0,acct_4,BYN,tag_5
+2025-08-16 00:00:00,Income,Second work,308.0,acct_1,BYN,2th_work
+2025-08-15 00:00:00,Income,Job,19.0,acct_1,BYN,tag_8
+2025-08-15 00:00:00,Income,Job,50.0,acct_1,BYN,tag_1
+2025-08-15 00:00:00,Income,Job,18.0,acct_1,BYN,tag_2
+2025-08-14 00:00:00,Income,Second work,65.0,acct_1,BYN,2th_work
+2025-08-14 00:00:00,Income,Second work,224.0,acct_1,BYN,2th_work
+2025-08-13 00:00:00,Income,Job,29.0,acct_1,BYN,tag_8
+2025-08-12 00:00:00,Income,Job,42.0,acct_1,BYN,tag_1
+2025-08-11 00:00:00,Income,Job,18.0,acct_1,BYN,tag_8
+2025-08-10 00:00:00,Income,Debt return / Borrowed money,50.0,acct_1,BYN,tag_5
+2025-08-08 00:00:00,Income,Job,26.0,acct_1,BYN,tag_2
+2025-08-08 00:00:00,Income,Job,43.0,acct_1,BYN,tag_1
+2025-08-05 00:00:00,Income,Job,15.0,acct_1,BYN,tag_1
+2025-08-04 00:00:00,Income,Job,36.0,acct_1,BYN,tag_8
+2025-08-04 00:00:00,Income,Job,13.0,acct_1,BYN,tag_3
+2025-08-03 00:00:00,Income,Second work,117.0,acct_1,BYN,2th_work
+2025-08-02 00:00:00,Income,Second work,161.0,acct_1,BYN,2th_work
+2025-08-01 00:00:00,Income,Job,37.0,acct_1,BYN,tag_2
+2025-08-01 00:00:00,Income,Job,49.0,acct_1,BYN,tag_8
+2025-07-30 00:00:00,Income,Job,49.0,acct_1,BYN,tag_8
+2025-07-29 00:00:00,Income,Cashback,59.0,acct_2,BYN,tag_5
+2025-07-27 00:00:00,Income,Second work,73.0,acct_1,BYN,2th_work
+2025-07-22 00:00:00,Income,Job,28.0,acct_1,BYN,tag_1
+2025-07-21 00:00:00,Income,Gift,22.0,acct_1,BYN,tag_5
+2025-07-21 00:00:00,Income,Job,24.0,acct_1,BYN,tag_8
+2025-07-20 00:00:00,Income,Second work,219.0,acct_1,BYN,2th_work
+2025-07-19 00:00:00,Income,Second work,76.0,acct_1,BYN,2th_work
+2025-07-18 00:00:00,Income,Job,22.0,acct_1,BYN,tag_1
+2025-07-18 00:00:00,Income,Job,17.0,acct_1,BYN,tag_2
+2025-07-16 00:00:00,Income,Job,30.0,acct_1,BYN,tag_1
+2025-07-16 00:00:00,Income,Second work,55.0,acct_1,BYN,2th_work
+2025-07-15 00:00:00,Income,Job,49.0,acct_1,BYN,tag_8
+2025-07-11 00:00:00,Income,Job,28.0,acct_1,BYN,tag_2
+2025-07-10 00:00:00,Income,Second work,108.0,acct_1,BYN,2th_work
+2025-07-09 00:00:00,Income,Job,43.0,acct_2,BYN,tag_8
+2025-07-07 00:00:00,Income,Job,36.0,acct_2,BYN,tag_8
+2025-07-07 00:00:00,Income,Debt return / Borrowed money,8.0,acct_2,BYN,tag_5
+2025-07-06 00:00:00,Income,Second work,6.0,acct_1,BYN,tag_5
+2025-07-06 00:00:00,Income,Second work,322.0,acct_1,BYN,2th_work
+2025-07-04 00:00:00,Income,Job,47.0,acct_1,BYN,tag_8
+2025-07-04 00:00:00,Income,Gift,21.0,acct_1,BYN,tag_5
+2025-07-02 00:00:00,Income,Job,28.0,acct_1,BYN,tag_8
+2025-07-02 00:00:00,Income,Job,30.0,acct_1,BYN,tag_2
+2025-07-02 00:00:00,Income,Job,25.0,acct_1,BYN,tag_1
+2025-07-01 00:00:00,Income,Second work,276.0,acct_1,BYN,2th_work
+2025-07-01 00:00:00,Income,Second work,266.0,acct_1,BYN,2th_work
+2025-06-30 00:00:00,Income,Job,41.0,acct_1,BYN,tag_8
+2025-06-30 00:00:00,Income,Job,31.0,acct_1,BYN,tag_1
+2025-06-30 00:00:00,Income,Job,44.0,acct_1,BYN,tag_8
+2025-06-27 00:00:00,Income,Job,43.0,acct_1,BYN,tag_8
+2025-06-27 00:00:00,Income,Job,33.0,acct_1,BYN,tag_2
+2025-06-27 00:00:00,Income,Job,21.0,acct_1,BYN,tag_1
+2025-06-26 00:00:00,Income,Second work,137.0,acct_1,BYN,2th_work
+2025-06-25 00:00:00,Income,Job,13.0,acct_1,BYN,tag_8
+2025-06-25 00:00:00,Income,Job,25.0,acct_1,BYN,tag_1
+2025-06-23 00:00:00,Income,Job,35.0,acct_1,BYN,tag_3
+2025-06-22 00:00:00,Income,Gift,8.0,acct_1,BYN,tag_5
+2025-06-20 00:00:00,Income,Job,33.0,acct_1,BYN,tag_8
+2025-06-20 00:00:00,Income,Job,12.0,acct_1,BYN,tag_2
+2025-06-20 00:00:00,Income,Job,14.0,acct_1,BYN,tag_1
+2025-06-19 00:00:00,Income,Debt return / Borrowed money,32.0,acct_1,BYN,tag_5
+2025-06-19 00:00:00,Income,Job,19.0,acct_1,BYN,tag_6
+2025-06-18 00:00:00,Income,Job,45.0,acct_1,BYN,tag_8
+2025-06-17 00:00:00,Income,Second work,277.0,acct_1,BYN,2th_work
+2025-06-17 00:00:00,Income,Job,27.0,acct_1,BYN,tag_6
+2025-06-17 00:00:00,Income,Job,16.0,acct_1,BYN,tag_1
+2025-06-16 00:00:00,Income,Job,39.0,acct_1,BYN,tag_3
+2025-06-15 00:00:00,Income,Second work,148.0,acct_1,BYN,2th_work
+2025-06-13 00:00:00,Income,Job,25.0,acct_1,BYN,tag_8
+2025-06-13 00:00:00,Income,Job,17.0,acct_1,BYN,tag_2
+2025-06-13 00:00:00,Income,Job,39.0,acct_1,BYN,tag_1
+2025-06-12 00:00:00,Income,Second work,135.0,acct_1,BYN,2th_work
+2025-06-12 00:00:00,Income,Job,38.0,acct_1,BYN,tag_6
+2025-06-11 00:00:00,Income,Job,50.0,acct_1,BYN,tag_8
+2025-06-10 00:00:00,Income,Job,49.0,acct_1,BYN,tag_6
+2025-06-10 00:00:00,Income,Job,12.0,acct_1,BYN,tag_1
+2025-06-09 00:00:00,Income,Second work,57.0,acct_1,BYN,2th_work
+2025-06-09 00:00:00,Income,Second work,60.0,acct_1,BYN,2th_work
+2025-06-09 00:00:00,Income,Job,20.0,acct_1,BYN,tag_3
+2025-06-07 00:00:00,Income,Second work,274.0,acct_1,BYN,2th_work
+2025-06-06 00:00:00,Income,Job,24.0,acct_1,BYN,tag_2
+2025-06-06 00:00:00,Income,Job,49.0,acct_1,BYN,tag_1
+2025-06-05 00:00:00,Income,Job,55.0,acct_1,BYN,tag_6
+2025-06-03 00:00:00,Income,Job,31.0,acct_1,BYN,tag_1
+2025-06-02 00:00:00,Income,Job,49.0,acct_1,BYN,tag_6
+2025-06-02 00:00:00,Income,Job,48.0,acct_1,BYN,tag_3
+2025-06-02 00:00:00,Income,Gift,102.0,acct_1,BYN,tag_5
+2025-05-31 00:00:00,Income,Job,272.0,acct_1,BYN,2th_work
+2025-05-26 00:00:00,Income,Job,17.0,acct_1,BYN,tag_5
+2025-05-26 00:00:00,Income,Job,59.0,acct_1,BYN,tag_5
+2025-05-25 00:00:00,Income,Gift,17.0,acct_2,BYN,tag_5
+2025-05-23 00:00:00,Income,Job,56.0,acct_2,BYN,tag_5
+2025-05-22 00:00:00,Income,Second work,102.0,acct_1,BYN,2th_work
+2025-05-21 00:00:00,Income,Job,20.0,acct_1,BYN,tag_5
+2025-05-20 00:00:00,Income,Job,10.0,acct_1,BYN,tag_5
+2025-05-19 00:00:00,Income,Job,15.0,acct_1,BYN,tag_5
+2025-05-16 00:00:00,Income,Job,83.0,acct_1,BYN,tag_5
+2025-05-16 00:00:00,Income,Cashback,24.0,acct_1,BYN,tag_5
+2025-05-15 00:00:00,Income,Second work,193.0,acct_1,BYN,2th_work
+2025-05-14 00:00:00,Income,Cashback,16.0,acct_1,BYN,tag_5
+2025-05-13 00:00:00,Income,Job,8.0,acct_1,BYN,tag_5
+2025-05-09 00:00:00,Income,Other,908.0,acct_1,BYN,tag_5
+2025-05-08 00:00:00,Income,Job,47.0,acct_1,BYN,tag_5
+2025-05-07 00:00:00,Income,Job,22.0,acct_1,BYN,tag_5
+2025-05-06 00:00:00,Income,Cashback,2.0,acct_1,BYN,tag_5
+2025-05-06 00:00:00,Income,Job,17.0,acct_1,BYN,tag_5
+2025-05-06 00:00:00,Income,Job,24.0,acct_1,BYN,tag_5
+2025-05-03 00:00:00,Income,Gift,78.0,acct_2,BYN,tag_5
+2025-05-02 00:00:00,Income,Cashback,5.0,acct_3,BYN,tag_5
+2025-05-01 00:00:00,Income,Job,15.0,acct_1,BYN,tag_5
+2025-04-30 00:00:00,Income,Job,42.0,acct_1,BYN,tag_5
+2025-04-26 00:00:00,Income,Second work,43.0,acct_1,BYN,2th_work
+2025-04-25 00:00:00,Income,Job,20.0,acct_1,BYN,tag_5
+2025-04-25 00:00:00,Income,Second work,115.0,acct_1,BYN,2th_work
+2025-04-23 00:00:00,Income,Job,79.0,acct_1,BYN,tag_5
+2025-04-22 00:00:00,Income,Job,22.0,acct_1,BYN,tag_5
+2025-04-21 00:00:00,Income,Job,24.0,acct_1,BYN,tag_5
+2025-04-18 00:00:00,Income,Job,67.0,acct_1,BYN,tag_5
+2025-04-16 00:00:00,Income,Second work,182.0,acct_1,BYN,2th_work
+2025-04-16 00:00:00,Income,Job,19.0,acct_1,BYN,tag_5
+2025-04-15 00:00:00,Income,Job,13.0,acct_1,BYN,tag_5
+2025-04-14 00:00:00,Income,Job,39.0,acct_1,BYN,tag_5
+2025-04-14 00:00:00,Income,Job,13.0,acct_1,BYN,tag_5
+2025-04-09 00:00:00,Income,Job,16.0,acct_1,BYN,tag_5
+2025-04-08 00:00:00,Income,Gift,6.0,acct_2,BYN,tag_5
+2025-04-08 00:00:00,Income,Second work,59.0,acct_1,BYN,tag_5
+2025-04-08 00:00:00,Income,Job,19.0,acct_1,BYN,tag_5
+2025-04-08 00:00:00,Income,Second work,178.0,acct_1,BYN,2th_work
+2025-04-07 00:00:00,Income,Job,97.0,acct_1,BYN,tag_5
+2025-04-07 00:00:00,Income,Job,14.0,acct_1,BYN,tag_5
+2025-04-04 00:00:00,Income,Debt return / Borrowed money,243.0,acct_1,BYN,tag_5
+2025-04-02 00:00:00,Income,Second work,81.0,acct_1,BYN,2th_work
+2025-04-02 00:00:00,Income,Job,20.0,acct_1,BYN,tag_5
+2025-04-01 00:00:00,Income,Job,12.0,acct_1,BYN,tag_5
+2025-03-31 00:00:00,Income,Job,86.0,acct_1,BYN,tag_5
+2025-03-31 00:00:00,Income,Job,81.0,acct_1,BYN,tag_5
+2025-03-31 00:00:00,Income,Other,4.0,acct_1,BYN,tag_5
+2025-03-28 00:00:00,Income,Job,24.0,acct_1,BYN,tag_5
+2025-03-28 00:00:00,Income,Job,18.0,acct_1,BYN,tag_5
+2025-03-28 00:00:00,Income,Gift,6.0,acct_1,BYN,tag_5
+2025-03-28 00:00:00,Income,Other,28.0,acct_1,BYN,tag_5
+2025-03-26 00:00:00,Income,Gift,20.0,acct_1,BYN,tag_5
+2025-03-24 00:00:00,Income,Second work,460.0,acct_1,BYN,2th_work
+2025-03-23 00:00:00,Income,Second work,72.0,acct_1,BYN,2th_work
+2025-03-23 00:00:00,Income,Second work,320.0,acct_1,BYN,2th_work
+2025-03-21 00:00:00,Income,Debt return / Borrowed money,460.0,acct_1,BYN,tag_5
+2025-03-21 00:00:00,Income,Debt return / Borrowed money,3.0,acct_3,BYN,tag_5
+2025-03-19 00:00:00,Income,Gift,3.0,acct_1,BYN,tag_5
+2025-03-18 00:00:00,Income,Job,13.0,acct_1,BYN,tag_5
+2025-03-18 00:00:00,Income,Other,25.0,acct_1,BYN,tag_5
+2025-03-17 00:00:00,Income,Job,73.0,acct_1,BYN,tag_5
+2025-03-16 00:00:00,Income,Cashback,7.0,acct_2,BYN,tag_5
+2025-03-15 00:00:00,Income,Other,14.0,acct_1,BYN,tag_5
+2025-03-14 00:00:00,Income,Other,53.0,acct_1,BYN,tag_5
+2025-03-13 00:00:00,Income,Job,41.0,acct_1,BYN,tag_5
+2025-03-11 00:00:00,Income,Job,28.0,acct_1,BYN,tag_5
+2025-03-10 00:00:00,Income,Job,164.0,acct_1,BYN,tag_5
+2025-03-10 00:00:00,Income,Job,44.0,acct_1,BYN,tag_5
+2025-03-09 00:00:00,Income,Other,146.0,acct_2,BYN,tag_5
+2025-03-07 00:00:00,Income,Job,45.0,acct_1,BYN,tag_5
+2025-03-06 00:00:00,Income,Job,40.0,acct_1,BYN,tag_5
+2025-03-05 00:00:00,Income,Debt return / Borrowed money,304.0,acct_1,BYN,tag_5
+2025-03-05 00:00:00,Income,Job,32.0,acct_1,BYN,tag_5
+2025-03-04 00:00:00,Income,Job,24.0,acct_1,BYN,tag_5
+2025-03-03 00:00:00,Income,Other,417.0,acct_1,BYN,tag_5
+2025-03-03 00:00:00,Income,Job,37.0,acct_1,BYN,tag_5
+2025-02-28 00:00:00,Income,Second work,230.0,acct_1,BYN,2th_work
+2025-02-28 00:00:00,Income,Job,28.0,acct_1,BYN,tag_5
+2025-02-27 00:00:00,Income,Job,40.0,acct_1,BYN,tag_5
+2025-02-25 00:00:00,Income,Job,16.0,acct_1,BYN,tag_5
+2025-02-25 00:00:00,Income,Gift,13.0,acct_3,BYN,tag_5
+2025-02-24 00:00:00,Income,Other,53.0,acct_1,BYN,tag_5
+2025-02-24 00:00:00,Income,Job,55.0,acct_1,BYN,tag_5
+2025-02-24 00:00:00,Income,Job,35.0,acct_1,BYN,tag_5
+2025-02-21 00:00:00,Income,Second work,272.0,acct_1,BYN,2th_work
+2025-02-21 00:00:00,Income,Job,42.0,acct_1,BYN,tag_5
+2025-02-21 00:00:00,Income,Gift,69.0,acct_1,BYN,tag_5
+2025-02-20 00:00:00,Income,Job,40.0,acct_1,BYN,tag_5
+2025-02-19 00:00:00,Income,Job,51.0,acct_1,BYN,tag_5
+2025-02-17 00:00:00,Income,Job,28.0,acct_1,BYN,tag_5
+2025-02-17 00:00:00,Income,Job,23.0,acct_1,BYN,tag_5
+2025-02-14 00:00:00,Income,Job,50.0,acct_1,BYN,tag_5
+2025-02-14 00:00:00,Income,Other,2.0,acct_3,BYN,tag_5
+2025-02-13 00:00:00,Income,Job,17.0,acct_1,BYN,tag_5
+2025-02-12 00:00:00,Income,Job,30.0,acct_1,BYN,tag_5
+2025-02-11 00:00:00,Income,Job,12.0,acct_1,BYN,tag_5
+2025-02-10 00:00:00,Income,Job,38.0,acct_1,BYN,tag_5
+2025-02-07 00:00:00,Income,Job,53.0,acct_1,BYN,tag_5
+2025-02-07 00:00:00,Income,Other,5.0,acct_1,BYN,tag_5
+2025-02-06 00:00:00,Income,Other,106.0,acct_1,BYN,tag_5
+2025-02-06 00:00:00,Income,Job,36.0,acct_1,BYN,tag_5
+2025-02-05 00:00:00,Income,Other,73.0,acct_1,BYN,tag_5
+2025-02-05 00:00:00,Income,Job,28.0,acct_1,BYN,tag_5
+2025-02-04 00:00:00,Income,Job,35.0,acct_1,BYN,tag_5
+2025-02-04 00:00:00,Income,Job,33.0,acct_1,BYN,tag_5
+2025-02-03 00:00:00,Income,Job,11.0,acct_1,BYN,tag_5
+2025-02-03 00:00:00,Income,Job,32.0,acct_1,BYN,tag_5
+2025-02-02 00:00:00,Income,Gift,35.0,acct_1,BYN,tag_5
+2025-02-01 00:00:00,Income,Other,56.0,acct_1,BYN,tag_5
+2025-01-31 00:00:00,Income,Job,28.0,acct_1,BYN,tag_5
+2025-01-30 00:00:00,Income,Other,72.0,acct_1,BYN,tag_5
+2025-01-30 00:00:00,Income,Second work,208.0,acct_1,BYN,2th_work
+2025-01-28 00:00:00,Income,Job,31.0,acct_5,BYN,tag_5
+2025-01-27 00:00:00,Income,Job,43.0,acct_5,BYN,tag_5
+2025-01-27 00:00:00,Income,Job,31.0,acct_5,BYN,tag_5
+2025-01-25 00:00:00,Income,Other,172.0,acct_1,BYN,tag_5
+2025-01-24 00:00:00,Income,Cashback,2.0,acct_1,BYN,tag_5
+2025-01-24 00:00:00,Income,Job,22.0,acct_5,BYN,tag_5
+2025-01-24 00:00:00,Income,Other,145.0,acct_1,BYN,tag_5
+2025-01-23 00:00:00,Income,Job,44.0,acct_5,BYN,tag_5
+2025-01-21 00:00:00,Income,Job,15.0,acct_1,BYN,tag_5
+2025-01-20 00:00:00,Income,Job,39.0,acct_1,BYN,tag_5
+2025-01-20 00:00:00,Income,Job,36.0,acct_1,BYN,tag_5
+2025-01-18 00:00:00,Income,Other,30.0,acct_1,BYN,tag_5
+2025-01-17 00:00:00,Income,Job,51.0,acct_1,BYN,tag_5
+2025-01-16 00:00:00,Income,Job,32.0,acct_1,BYN,tag_5
+2025-01-15 00:00:00,Income,Second work,89.0,acct_1,BYN,2th_work
+2025-01-15 00:00:00,Income,Job,14.0,acct_1,BYN,tag_5
+2025-01-15 00:00:00,Income,Job,36.0,acct_1,BYN,tag_5
+2025-01-13 00:00:00,Income,Job,34.0,acct_1,BYN,tag_5
+2025-01-11 00:00:00,Income,Other,68.0,acct_1,BYN,tag_5
+2025-01-11 00:00:00,Income,Cashback,4.0,acct_1,BYN,tag_5
+2025-01-10 00:00:00,Income,Cashback,41.0,acct_2,BYN,tag_5
+2025-01-10 00:00:00,Income,Other,27.0,acct_2,BYN,tag_5
+2025-01-10 00:00:00,Income,Other,74.0,acct_1,BYN,tag_5
+2025-01-09 00:00:00,Income,Other,213.0,acct_2,BYN,tag_5
+2025-01-09 00:00:00,Income,Job,16.0,acct_1,BYN,tag_5
+2025-01-07 00:00:00,Income,Cashback,7.0,acct_1,BYN,tag_5
+2025-01-05 00:00:00,Income,Second work,78.0,acct_1,BYN,2th_work
+2025-01-04 00:00:00,Income,Gift,51.0,acct_1,BYN,tag_5
+2025-01-04 00:00:00,Income,Gift,77.0,acct_1,BYN,tag_5
+2025-01-03 00:00:00,Income,Job,34.0,acct_1,BYN,tag_5
