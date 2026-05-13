@@ -8,6 +8,35 @@ The main idea of this project is to combine LLM-based natural-language interacti
 
 ---
 
+## Pure LLM vs Tool-only vs Tool-calling
+
+This project responds to the core framing of comparing pure LLM, tool-only, and tool-calling approaches for personal finance analysis.
+
+| Approach | Strength | Limitation |
+|---|---|---|
+| Pure LLM | Flexible natural-language interaction | May hallucinate numerical answers |
+| Tool-only System | Accurate deterministic calculations | Limited conversational flexibility |
+| Tool-calling Copilot | Combines LLM interaction with grounded tool outputs | Requires orchestration between LLM and tools |
+
+Our final implementation focuses on the tool-calling approach. The local LLM is responsible for understanding user intent and selecting the appropriate financial analysis tool, while deterministic Python modules compute grounded financial results.
+
+---
+
+## Final System Workflow
+
+```text
+User Question
+→ Local Ollama LLM interprets the request
+→ LLM selects the appropriate finance tool
+→ Deterministic Python tool computes the result
+→ The app generates a grounded financial response
+→ Streamlit displays the final answer
+```
+
+The LLM is used for natural-language understanding and tool selection. The actual financial calculations are performed by deterministic Python tools, which helps reduce hallucination and numerical errors.
+
+---
+
 ## Key Features
 
 - Load and preview personal transaction data from a CSV file
@@ -44,7 +73,18 @@ User question
 → The app generates a grounded answer from the tool result
 ```
 
-The LLM is used for natural-language understanding and tool selection. The actual financial calculations are performed by Python tools, which helps reduce hallucination and numerical errors.
+The LLM is used for:
+- Natural-language understanding
+- Tool selection
+- Response formatting
+
+The deterministic backend is responsible for:
+- Numerical computation
+- Data lookup
+- Financial aggregation
+- Validation logic
+
+This separation reduces hallucination risk and improves reproducibility.
 
 ---
 
@@ -258,7 +298,15 @@ The LLM does not directly calculate these values. Instead, it selects the approp
 
 ## Course Project Context
 
-This project was developed for an Advanced Data Science course. The final version focuses on a local LLM-powered tool-calling workflow, local LLM backend deployment, and transparent tool-grounded financial analysis.
+This project was developed for an Advanced Data Science course. Compared with the Milestone 2 version, the final version adds local LLM calls through Ollama, tool routing, and tool-grounded answer generation to address the project’s original pure LLM vs tool-calling framing.
+
+The final version focuses on:
+
+- Local LLM-powered tool-calling workflow
+- Transparent deterministic financial analysis
+- Tool-grounded response generation
+- Local deployment through Ollama
+- Reducing hallucination in financial question answering
 
 ---
 
