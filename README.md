@@ -140,7 +140,7 @@ date,type,category,amount,account,currency,description
 
 ```bash
 git clone https://github.com/nianchen0611-pixel/advanced_ds_project.git
-cd cd advanced_ds_project
+cd advanced_ds_project
 ```
 
 ### 2. Create and activate a virtual environment
