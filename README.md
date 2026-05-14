@@ -139,8 +139,8 @@ date,type,category,amount,account,currency,description
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/nianchen0611-pixel/personal-finance-copilot.git
-cd personal-finance-copilot
+git clone https://github.com/nianchen0611-pixel/advanced_ds_project.git
+cd cd advanced_ds_project
 ```
 
 ### 2. Create and activate a virtual environment
